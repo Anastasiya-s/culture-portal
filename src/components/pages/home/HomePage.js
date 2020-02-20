@@ -8,6 +8,9 @@ const HomePage = () => (
     <Header />
     Home Page
     <p><Link to='/author/1'>author1</Link></p>    
+    <p><Link to='/author/2'>author2</Link></p>    
+    <p><Link to='/author/3'>author3</Link></p>    
+    <p><Link to='/author/4'>author4</Link></p>    
   </div>
 );
 
