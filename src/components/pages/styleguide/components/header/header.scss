@@ -1,0 +1,17 @@
+@import "./../../../../../design/colors.scss";
+
+.header {
+  background-color: $primaryTurquoise;
+  &-link:hover {
+    color: $secondaryTurquoise;
+  }
+}
+
+.nav {
+  margin-bottom: 50px;
+  font-size: 20px;
+  justify-content: space-between;
+  &-link {
+    color: $primaryWhite;
+  }
+}
