@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 import { HomePage } from './pages/home';
 import { AuthorPage } from './pages/author';
+import { StyleguidePage } from './pages/styleguide';
 
 class App extends React.Component {
   render() {
@@ -12,9 +13,9 @@ class App extends React.Component {
           <Route path="/" exact component={HomePage} />
           <Route path="/author/:id" exact component={AuthorPage} />
           {/* <Route path="/team" component={TeamPage} />
-          <Route path="/search" component={SearchPage} />
-          <Route path="/styleguide" component={StylesPage} />
-          <Route path="/personal-info" component={PersonalPage} /> */}
+          <Route path="/search" component={SearchPage} /> */}
+          <Route path="/styleguide" exact component={StyleguidePage} />
+          {/* <Route path="/personal-info" component={PersonalPage} /> */}
         </Switch>
       </BrowserRouter>
     )

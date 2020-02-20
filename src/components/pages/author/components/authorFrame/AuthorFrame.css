@@ -2,14 +2,10 @@
   display: flex;
   flex-direction: column;
   border: 1px solid black;
-  width: 800px;
 }
-.imgAuthor{
-  width: 100%;
+.imgAuthor{  
   height: 500px;
-  background-repeat: no-repeat;
-  background-position: 50%;
-  background-size: cover;
+  object-fit: contain;
 }
 .textAuthor{
   text-align: center;
