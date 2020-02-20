@@ -7,6 +7,12 @@ module.exports = {
     path: path.join(__dirname, '/dist'),
     filename: 'index-bundle.js'
   },
+  resolve: {
+    alias: {
+      '@core': path.resolve(__dirname, 'src/components/core/'),
+      '@resources': path.resolve(__dirname, 'src/resources/localization/')
+    }
+  },
   module: {
     rules: [
       {
@@ -26,7 +32,7 @@ module.exports = {
           }
         ]
       }
-    ]
+    ],
   },
   devServer: {
     historyApiFallback: true
