@@ -9,12 +9,11 @@ class App extends React.Component {
     return (
       <BrowserRouter>
         <Switch>
-          {/* <Route path="/" exact component={HomePage} /> */}
-          <Route path="/" exact component={StyleguidePage} />
+          <Route path="/" exact component={HomePage} />
           {/* <Route path="/team" component={TeamPage} />
-          <Route path="/search" component={SearchPage} />
-          <Route path="/styleguide" component={StylesPage} />
-          <Route path="/personal-info" component={PersonalPage} /> */}
+          <Route path="/search" component={SearchPage} /> */}
+          <Route path="/styleguide" exact component={StyleguidePage} />
+          {/* <Route path="/personal-info" component={PersonalPage} /> */}
         </Switch>
       </BrowserRouter>
     )

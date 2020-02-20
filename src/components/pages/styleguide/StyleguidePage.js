@@ -1,13 +1,13 @@
 import React from 'react';
 import Header from '../../core/header/Header';
-import Links from './components/links/Links';
+import Main from './components/main/Main';
 
 import Footer from '../../core/footer/Footer';
 
 const StyleguidePage = () => (
 	<div>
 		<Header />
-		<Links />
+		<Main />
 		<Footer />
 	</div>
 );

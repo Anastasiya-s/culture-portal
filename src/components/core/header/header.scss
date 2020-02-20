@@ -2,9 +2,6 @@
 
 .header {
   background-color: $primary;
-  &__link:hover {
-    color: $secondary;
-  }
 }
 
 .nav {
@@ -12,6 +9,9 @@
   font-size: 20px;
   justify-content: space-between;
   &-link {
-    color: $text-color;
+    color: $primary-text;
+    &:hover {
+      color: $secondary-text;
+    }
   }
 }
