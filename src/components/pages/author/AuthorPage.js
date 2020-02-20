@@ -7,7 +7,8 @@ import { AuthorVideo } from './components/authorVideo';
 import authors from '@resources/authors.json';
 
 const AuthorPage = (props) => {
-  const { id } = useParams(); 
+  const { id } = useParams();
+  console.log(authors.ru.authors[id].video); 
   return (
     <div className='container'>   
       Author Page id={id}
@@ -17,7 +18,11 @@ const AuthorPage = (props) => {
         yearOfLife={authors.ru.authors[id].yearOfLife}
         spawnPoint={authors.ru.authors[id].spawnPoint}
       />
-
+      {authors.ru.authors[id].video == 'null' 
+        ? '' 
+        : <AuthorVideo src={authors.ru.authors[id].video}
+      />}
+      
     </div>
   ) 
 };
