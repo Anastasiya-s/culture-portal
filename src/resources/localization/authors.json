@@ -2,6 +2,7 @@
   "ru" : {
     "authors":[
       {
+        "id": "0",
         "name": "Михаил Владимирович Анемподистов",
         "yearOfLife" : "16 марта 1964 - 23 января 2018",
         "spawnPoint" : "Минск",
@@ -101,6 +102,7 @@
         "map" : "Минкс(заглушка)"
       },
       {
+        "id": "1",
         "name": "Артур Александрович Клинов",
         "yearOfLife" : " 5 сентября 1965 - XXXX",
         "spawnPoint" : "Минск",
@@ -244,6 +246,7 @@
         "map" : "Минкс(заглушка)"
       },
       {
+        "id": "2",
         "name": "Ян Булгак",
         "yearOfLife" : "6 октября 1876 - 4 февраля 1950",
         "spawnPoint" : "Осташино",
@@ -331,6 +334,7 @@
         "map" : "Гижыцка, Польша (заглушка)"
       },
       {
+        "id": "3",
         "name": "Михаил Григорьевич Баразна",
         "yearOfLife" : "20 ноября 1962 - ХХХХ",
         "spawnPoint" : "Ракушава",
@@ -439,6 +443,7 @@
         "map" : "Минск(заглушка)"
       },
       {
+        "id": "4",
         "name": "Лев Урбанавич Дашкевич",
         "yearOfLife" : "12 февраля 1882 - 4 декабря 1957",
         "spawnPoint" : "Минск",
@@ -551,6 +556,7 @@
         "map" : "Минск(заглушка)"
       },
       {
+        "id": "5",
         "name": "Георгий Леонардович Лихтарович",
         "yearOfLife" : "6 декабря 1947 - XXXX",
         "spawnPoint" : "Минск",
@@ -625,6 +631,7 @@
         "map" : "Минск(заглушка)"
       },
       {
+        "id": "6",
         "name": "Владимир Сапагов",
         "yearOfLife" : "4 июля 1952  - 11 марта 2012",
         "spawnPoint" : "Брест",
@@ -681,6 +688,7 @@
   "en" : {
     "authors":[
       {
+        "id": "0",
         "name": "Mikhail Vladimirovich Anempodistov",
         "yearOfLife" : "16 march 1964 - 23 january 2018",
         "spawnPoint" : "Minsk",
@@ -780,6 +788,7 @@
         "map" : "Minsk(заглушка)"
       },
       {
+        "id": "1",
         "name": "Arthur Aleksandrovich Klinov",
         "yearOfLife" : " 5 september 1965 - XXXX",
         "spawnPoint" : "Minsk",
@@ -923,6 +932,7 @@
         "map" : "Минкс(заглушка)"
       },
       {
+        "id": "2",
         "name": "Yan Bulgak",
         "yearOfLife" : "6 October 1876 - 4 February 1950",
         "spawnPoint" : "Ostashino",
@@ -1010,6 +1020,7 @@
         "map" : "Гижыцка, Польша (заглушка)"
       },
       {
+        "id": "3",
         "name": "Mikhail Grigoryevich Barazna",
         "yearOfLife" : "20 November 1962 - ХХХХ",
         "spawnPoint" : "Rakushava",
@@ -1118,6 +1129,7 @@
         "map" : "Минск(заглушка)"
       },
       {
+        "id": "4",
         "name": "Lev Urbanavich Dashkevich",
         "yearOfLife" : "12 February 1882 - 4 December 1957",
         "spawnPoint" : "Minsk",
@@ -1230,6 +1242,7 @@
         "map" : "Минск(заглушка)"
       },
       {
+        "id": "5",
         "name": "George Leonardovich Likhtarovich",
         "yearOfLife" : "6 December 1947 - XXXX",
         "spawnPoint" : "Minsk",
@@ -1304,6 +1317,7 @@
         "map" : "Минск(заглушка)"
       },
       {
+        "id": "6",
         "name": "Vladimir Sapagov",
         "yearOfLife" : "4 July 1952  - 11 March 2012",
         "spawnPoint" : "Brest",
@@ -1360,6 +1374,7 @@
   "be" : {
     "authors":[
       {
+        "id": "0",
         "name": "Міхаіл Уладзіміравіч Анемпадыстаў",
         "yearOfLife" : "16 сакавіка 1964 - 23 студзеня 2018",
         "spawnPoint" : "Мінск",
@@ -1459,6 +1474,7 @@
         "map" : "Мінск(заглушка)"
       },
       {
+        "id": "1",
         "name": "Артур Аляксандравіч Клінаў",
         "yearOfLife" : " 5 верасня 1965 - XXXX",
         "spawnPoint" : "Мінск",
@@ -1602,6 +1618,7 @@
         "map" : "Минкс(заглушка)"
       },
       {
+        "id": "2",
         "name": "Ян Булгак",
         "yearOfLife" : "6 кастрычніка 1876 - 4 лютага 1950",
         "spawnPoint" : "Асташына",
@@ -1689,6 +1706,7 @@
         "map" : "Гижыцка, Польша (заглушка)"
       },
       {
+        "id": "3",
         "name": "Міхаіл Рыгоравіч Баразна",
         "yearOfLife" : "20 лістапада 1962 - ХХХХ",
         "spawnPoint" : "Ракушава",
@@ -1797,6 +1815,7 @@
         "map" : "Минск(заглушка)"
       },
       {
+        "id": "4",
         "name": "Леў Урбанавіч Дашкевіч",
         "yearOfLife" : "12 лютага 1882 - 4 снежня 1957",
         "spawnPoint" : "Мінск",
@@ -1909,6 +1928,7 @@
         "map" : "Минск(заглушка)"
       },
       {
+        "id": "5",
         "name": "Георгій Леанардавіч Ліхтаровіч",
         "yearOfLife" : "6 снежня 1947 - XXXX",
         "spawnPoint" : "Мінск",
@@ -1983,6 +2003,7 @@
         "map" : "Минск(заглушка)"
       },
       {
+        "id": "6",
         "name": "Владимир Сапагов",
         "yearOfLife" : "4 ліпеня 1952 — 11 сакавіка 2012",
         "spawnPoint" : "Брэсц",
