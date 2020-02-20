@@ -1,0 +1,1 @@
+export { default as Title3 } from './Title3';
