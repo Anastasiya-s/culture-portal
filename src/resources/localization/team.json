@@ -2,7 +2,7 @@
   "ru" : {
     "team":[
       {
-        "name": "Denis Poleshchuk" ,
+        "name" : "Denis Poleshchuk",
         "linkGit" : "https://github.com/ronoarus",
         "image" : "https://avatars3.githubusercontent.com/u/48986345?s=460&v=4",
         "workLog" : [
