@@ -1,7 +1,7 @@
 import React from 'react';
 
-const NavPoint = (props) => (
-	<a className="nav-link header__link" href={props.href}>{props.text}</a>
+const NavPoint = ({ text }) => (
+	<span className="nav-link header__link">{text}</span>
 );
 
 export default NavPoint;

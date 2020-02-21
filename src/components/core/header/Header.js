@@ -1,16 +1,28 @@
 import React from 'react';
-import NavPoint from './navPoint/NavPoint';
+import { Link } from 'react-router-dom';
+import { NavPoint } from './navPoint';
 import './header.scss';
 
 const Header = () => (
 	<header className="header">
 		<div className="container-fluid">
 			<nav className="nav justify-content-between">
-				<NavPoint text="Главная страница" href="#" />
-				<NavPoint text="Поиск по фотографам" href="#" />
-				<NavPoint text="Наша команда" href="#" />
-				<NavPoint text="Стайлгайд" href="#" />
-				<NavPoint text="Ворклог" href="#" />
+				<Link to="/">
+					<NavPoint text="Главная страница" />
+				</Link>
+				<Link to="/search">
+					<NavPoint text="Поиск по фотографам"  />
+				</Link>
+				<Link to="/team">
+					<NavPoint text="Наша команда" />
+				</Link>
+				<Link to="/styleguide">
+					<NavPoint text="Стайлгайд" />
+				</Link>
+				<Link to="">
+					<NavPoint text="Ворклог"  />
+				</Link>
+
 			</nav>
 		</div>
 	</header>
