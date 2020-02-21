@@ -5,7 +5,7 @@ const AuthorBiography = (props) => {
   const biographyArray = props.biography;
   return (
     <div>
-      <h2 style = {{textAlign: 'center'}}>Биография</h2>
+      <h2 style = {{textAlign: 'center'}}>{props.text}</h2>
       <Timeline lineColor={'#ddd'}>
         {biographyArray.map((v, i) => {
           return (

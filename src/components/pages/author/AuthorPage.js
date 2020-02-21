@@ -7,29 +7,32 @@ import { AuthorBiography } from './components/authorBiography';
 import { MapComponent } from './components/mapComponent';
 import { MyImageGallery } from './components/myImageGallery';
 import { AuthorWork } from './components/authorWork';
+import { withTranslation } from 'react-i18next';
+import '@src/i18n';
+//import authors from '@resources/authors.json';
 
-import authors from '@resources/authors.json';
-
-const AuthorPage = (props) => {
+const AuthorPage = ({ t }) => {
   const { id } = useParams();
+  const author = t('authors:authors')[id];
   return (
-    <div className='container'> 
-      <AuthorFrame 
-        src={authors.ru.authors[id].selfie}
-        name={authors.ru.authors[id].name}
-        yearOfLife={authors.ru.authors[id].yearOfLife}
-        spawnPoint={authors.ru.authors[id].spawnPoint}
+    <div className='container'>
+      <AuthorFrame
+        birthplace={t('controls:birthplace')}
+        src={author.selfie}
+        name={author.name}
+        yearOfLife={author.yearOfLife}
+        spawnPoint={author.spawnPoint}
       />
-      {authors.ru.authors[id].video == 'null' 
-        ? '' 
-        : <AuthorVideo src={authors.ru.authors[id].video}
-      />}
-      <AuthorBiography biography = {authors.ru.authors[id].biography}/>
-      <AuthorWork works = {authors.ru.authors[id].listOfWorks}/>
-      <MyImageGallery images = {authors.ru.authors[id].photoGallery}/>
-      <MapComponent position = {authors.ru.authors[id].map}/>
+      {author.video == 'null'
+        ? ''
+        : <AuthorVideo src={author.video}
+        />}
+      <AuthorBiography text={t('controls:biography')} biography={author.biography} />
+      <AuthorWork text={t('controls:worksOfAuthor')} tableTitle={{ "year": t('controls:year'), "work": t('controls:work') }} works={author.listOfWorks} />
+      <MyImageGallery text={t('controls:gallery')} images={author.photoGallery} />
+      <MapComponent position={author.map} />
     </div>
-  ) 
+  )
 };
 
-export default AuthorPage;
+export default withTranslation()(AuthorPage);

@@ -3,5 +3,11 @@
   "search": "Поиск по фотографам",
   "team": "Наша команда",
   "styleguide": "Стайлгайд",
-  "worklog": "Ворклог"
+  "worklog": "Ворклог",
+  "gallery": "Галерея",
+  "biography":"Биография",
+  "birthplace":"Место рождения",
+  "worksOfAuthor":"Работы автора",
+  "year":"Год",
+  "work":"Работа"
 }
