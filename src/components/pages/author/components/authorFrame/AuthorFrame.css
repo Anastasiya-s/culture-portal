@@ -1,0 +1,8 @@
+.authorFrame{
+  display: flex;
+  flex-direction: column;
+}
+.imgAuthor{  
+  height: 500px;
+  object-fit: contain;
+}
