@@ -1,4 +1,5 @@
 import React from 'react';
+import { LngSwitch } from './lngSwitch'
 import { Link } from 'react-router-dom';
 import { NavPoint } from './navPoint';
 import './header.scss';
@@ -6,7 +7,7 @@ import { withTranslation } from 'react-i18next';
 import '@src/i18n';
 
 
-const Header = ({ t, i18n }) => (
+const Header = ({ t }) => (
 	<header className="header">
 		<div className="container-fluid">
 			<nav className="nav justify-content-between">
@@ -26,11 +27,7 @@ const Header = ({ t, i18n }) => (
 					<NavPoint text={t('controls:worklog')} />
 				</Link>
 			</nav>
-			<select onChange={(e) => {	i18n.changeLanguage(e.target.value);}}>
-				<option value='ru'>Пункт 1</option>
-				<option value='en'>Пункт 2</option>
-				<option value='be'>Пункт 3</option>
-			</select>
+			<LngSwitch />
 		</div>
 	</header>
 );
