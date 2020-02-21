@@ -7,7 +7,7 @@ import './MyImageGallery.css';
 const MyImageGallery = (props) => {  
   return ( 
   <div>
-    <h2 style = {{textAlign: 'center'}}>Галерея</h2>
+    <h2 style = {{textAlign: 'center'}}>{props.text}</h2>
     <ImageGallery items={props.images} />
   </div>    
   );

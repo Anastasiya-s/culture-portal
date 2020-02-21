@@ -1,11 +1,11 @@
 import React from 'react';
+import { withTranslation } from 'react-i18next';
+import '@src/i18n';
 
 import { AuthorCard } from './components/author-card';
 
-import authors from '@resources/authors.json';
-
-const SearchPage = () => {
-  const authorsArray = authors.ru.authors;
+const SearchPage = ({t}) => {
+  const authorsArray = t('authors:authors');
   return (
   <div>
     Search Page
@@ -14,4 +14,4 @@ const SearchPage = () => {
   )
 }
 
-export default SearchPage;
+export default withTranslation()(SearchPage);
