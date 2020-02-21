@@ -7,7 +7,7 @@ import controls_ru from "@resources/controls/ru/controls.json";
 import controls_be from "@resources/controls/be/controls.json";
 
 import content from "@resources/authors.json";
-import team from "@resouces/team.json";
+//import team from "@resouces/team.json";
 
 i18n
   .use(initReactI18next)
