@@ -6,6 +6,7 @@ import { AuthorVideo } from './components/authorVideo';
 import { AuthorBiography } from './components/authorBiography';
 import { MapComponent } from './components/mapComponent';
 import { MyImageGallery } from './components/myImageGallery';
+import { AuthorWork } from './components/authorWork';
 
 import authors from '@resources/authors.json';
 
@@ -24,6 +25,7 @@ const AuthorPage = (props) => {
         ? '' 
         : <AuthorVideo src={authors.ru.authors[id].video}
       />}
+      <AuthorWork works = {authors.ru.authors[id].listOfWorks}/>
       <AuthorBiography biography = {authors.ru.authors[id].biography}/>
       <MyImageGallery images = {authors.ru.authors[id].photoGallery}/>
       <MapComponent position = {authors.ru.authors[id].map}/>
