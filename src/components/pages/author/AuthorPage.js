@@ -9,7 +9,6 @@ import { MyImageGallery } from './components/myImageGallery';
 import { AuthorWork } from './components/authorWork';
 import { withTranslation } from 'react-i18next';
 import '@src/i18n';
-//import authors from '@resources/authors.json';
 
 const AuthorPage = ({ t }) => {
   const { id } = useParams();
