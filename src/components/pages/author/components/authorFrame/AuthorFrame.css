@@ -1,12 +1,8 @@
 .authorFrame{
   display: flex;
   flex-direction: column;
-  border: 1px solid black;
 }
 .imgAuthor{  
   height: 500px;
   object-fit: contain;
-}
-.textAuthor{
-  text-align: center;
 }

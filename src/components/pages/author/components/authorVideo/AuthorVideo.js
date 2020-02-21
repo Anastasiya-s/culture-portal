@@ -23,7 +23,7 @@ class AuthorVideo extends React.Component {
           isOpen={this.state.isOpen} 
           videoId={this.props.src} 
           onClose={() => this.setState({isOpen: false})}/>
-        <button onClick={this.openModal}>youtube</button>
+        <button onClick={this.openModal}>Open video</button>
       </div>
     )
   }

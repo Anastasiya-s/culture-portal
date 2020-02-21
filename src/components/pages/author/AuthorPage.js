@@ -13,8 +13,7 @@ import authors from '@resources/authors.json';
 const AuthorPage = (props) => {
   const { id } = useParams();
   return (
-    <div className='container'>   
-      Author Page id={id}
+    <div className='container'> 
       <AuthorFrame 
         src={authors.ru.authors[id].selfie}
         name={authors.ru.authors[id].name}
@@ -25,8 +24,8 @@ const AuthorPage = (props) => {
         ? '' 
         : <AuthorVideo src={authors.ru.authors[id].video}
       />}
-      <AuthorWork works = {authors.ru.authors[id].listOfWorks}/>
       <AuthorBiography biography = {authors.ru.authors[id].biography}/>
+      <AuthorWork works = {authors.ru.authors[id].listOfWorks}/>
       <MyImageGallery images = {authors.ru.authors[id].photoGallery}/>
       <MapComponent position = {authors.ru.authors[id].map}/>
     </div>

@@ -4,10 +4,10 @@ import './AuthorFrame.css';
 
 const AuthorFrame = (props) => (
   <div className='authorFrame'>
+    <h2 style = {{textAlign: 'center'}}>{props.name}</h2>
     <img className='imgAuthor' src={props.src} alt={'author ' + props.name}></img>
-    <p className='textAuthor'>{props.name}</p>
-    <p className='textAuthor'>{props.yearOfLife}</p>
-    <p className='textAuthor'>Место рождения: {props.spawnPoint}</p>
+    <p style = {{textAlign: 'center'}}>{props.yearOfLife}</p>
+    <p style = {{textAlign: 'center'}}>Место рождения: {props.spawnPoint}</p>
   </div>
 );
 
