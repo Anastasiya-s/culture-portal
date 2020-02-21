@@ -874,11 +874,26 @@
           }
         ],
         "photoGallery" : [
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_23_48-640x628.jpg",
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_22_52-640x628.jpg",
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_21_64-640x627.jpg",
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_19_77-640x626.jpg",
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_17_106-640x628.jpg"
+          {
+            "original": "https://i.ibb.co/LrKPXyz/velvet-2-624-thumb.jpg",
+            "thumbnail": "https://i.ibb.co/LrKPXyz/velvet-2-624-thumb.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/F8vbdVv/velvet-3-575-640x427.jpg",
+            "thumbnail": "https://i.ibb.co/F8vbdVv/velvet-3-575-640x427.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/tPcg3PR/velvet-4-515-thumb.jpg",
+            "thumbnail": "https://i.ibb.co/tPcg3PR/velvet-4-515-thumb.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/4sZMhQJ/velvet-5-512-thumb.jpg",
+            "thumbnail": "https://i.ibb.co/4sZMhQJ/velvet-5-512-thumb.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/fMC0MVH/velvet-6-458-640x427.jpg",
+            "thumbnail": "https://i.ibb.co/fMC0MVH/velvet-6-458-640x427.jpg"
+          }          
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -1018,11 +1033,26 @@
           }
         ],
         "photoGallery" : [
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak1.jpg",
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak14.jpg",
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak20.jpg",
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak36.jpg",
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak80.jpg"
+          {
+            "original": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak1.jpg",
+            "thumbnail": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak1.jpg"
+          },
+          {
+            "original": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak14.jpg",
+            "thumbnail": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak14.jpg"
+          },
+          {
+            "original":  "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak20.jpg",
+            "thumbnail":  "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak20.jpg"
+          },
+          {
+            "original": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak36.jpg",
+            "thumbnail": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak36.jpg"
+          },
+          {
+            "original": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak80.jpg",
+            "thumbnail": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak80.jpg"
+          }  
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -1106,11 +1136,26 @@
           }
         ],
         "photoGallery" : [
-          "https://imgprx.livejournal.net/c7d8eee299a72a0298c27fa937e039aed9c79139/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXoKlaEmFX0qVGOOqkKITCSpo5MCGGFCJ48sLC5e_mNSKp5i0sAlzfsa5DBQTJM-pzg",
-          "https://imgprx.livejournal.net/b284071c76a2318b2cd9da1d7ad9e2f689a9fe4d/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14pT1jtWI6KfvL5_3Af2lfb_MTGhs1yjqC2K8jIMrlkVM",
-          "https://imgprx.livejournal.net/423d4a3ad39b5c15ea103e5a6d785038f42cf96c/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXpHXzkDks_jmdqurLdgElX3u0deDalmNY_32zBFc2F0foi5rWok-zbGQwbdo0pZyCA",
-          "https://imgprx.livejournal.net/7c78e006a3c3679734aae9735de7250f34146a3b/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14h64DfLT7V3ua1Lf3tW6OVCfi7p1R9Raei7l05UuOHVM",
-          "https://imgprx.livejournal.net/f8ad9cafedc0894011cb2274289539574547fa84/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14XNsfLNSXRrbw758-eIDHykuAU-vLrfwVQ8n0Jf5OmVI"
+          {
+            "original": "https://imgprx.livejournal.net/c7d8eee299a72a0298c27fa937e039aed9c79139/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXoKlaEmFX0qVGOOqkKITCSpo5MCGGFCJ48sLC5e_mNSKp5i0sAlzfsa5DBQTJM-pzg",
+            "thumbnail": "https://imgprx.livejournal.net/c7d8eee299a72a0298c27fa937e039aed9c79139/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXoKlaEmFX0qVGOOqkKITCSpo5MCGGFCJ48sLC5e_mNSKp5i0sAlzfsa5DBQTJM-pzg"
+          },
+          {
+            "original": "https://imgprx.livejournal.net/b284071c76a2318b2cd9da1d7ad9e2f689a9fe4d/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14pT1jtWI6KfvL5_3Af2lfb_MTGhs1yjqC2K8jIMrlkVM",
+            "thumbnail": "https://imgprx.livejournal.net/b284071c76a2318b2cd9da1d7ad9e2f689a9fe4d/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14pT1jtWI6KfvL5_3Af2lfb_MTGhs1yjqC2K8jIMrlkVM"
+          },
+          {
+            "original": "https://imgprx.livejournal.net/423d4a3ad39b5c15ea103e5a6d785038f42cf96c/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXpHXzkDks_jmdqurLdgElX3u0deDalmNY_32zBFc2F0foi5rWok-zbGQwbdo0pZyCA",
+            "thumbnail": "https://imgprx.livejournal.net/423d4a3ad39b5c15ea103e5a6d785038f42cf96c/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXpHXzkDks_jmdqurLdgElX3u0deDalmNY_32zBFc2F0foi5rWok-zbGQwbdo0pZyCA"
+          },
+          {
+            "original": "https://imgprx.livejournal.net/7c78e006a3c3679734aae9735de7250f34146a3b/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14h64DfLT7V3ua1Lf3tW6OVCfi7p1R9Raei7l05UuOHVM",
+            "thumbnail": "https://imgprx.livejournal.net/7c78e006a3c3679734aae9735de7250f34146a3b/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14h64DfLT7V3ua1Lf3tW6OVCfi7p1R9Raei7l05UuOHVM"
+          },
+          {
+            "original": "https://imgprx.livejournal.net/f8ad9cafedc0894011cb2274289539574547fa84/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14XNsfLNSXRrbw758-eIDHykuAU-vLrfwVQ8n0Jf5OmVI",
+            "thumbnail": "https://imgprx.livejournal.net/f8ad9cafedc0894011cb2274289539574547fa84/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14XNsfLNSXRrbw758-eIDHykuAU-vLrfwVQ8n0Jf5OmVI"
+          }
         ],
         "video" : "OUl9EEOXAeY",
         "map" : [54.0398, 21.7714]
@@ -1215,11 +1260,26 @@
           }
         ],
         "photoGallery" : [
-          "http://bdam.by/upload/iblock/610/6108616d09363f45586ee62ada16d4ec.jpg",          
-          "http://bdam.by/upload/iblock/87f/87f0ae4510475360d455383ba4bdfbfe.jpg",          
-          "http://bdam.by/upload/iblock/6b2/6b2f902c2c9c2b9104b900ee95ceb704.jpg",          
-          "http://bdam.by/upload/iblock/4e4/4e4a068c69ce93817acd5861a04b6893.jpg",          
-          "http://bdam.by/upload/iblock/07f/07f3fd401b37349d8ca25a160e2920b6.jpg"          
+          {
+            "original": "https://i.ibb.co/yBYXdB6/4e4a068c69ce93817acd5861a04b6893.jpg",
+            "thumbnail": "https://i.ibb.co/yBYXdB6/4e4a068c69ce93817acd5861a04b6893.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/JQtMJyf/6b2f902c2c9c2b9104b900ee95ceb704.jpg",
+            "thumbnail": "https://i.ibb.co/JQtMJyf/6b2f902c2c9c2b9104b900ee95ceb704.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/NL5T5nm/07f3fd401b37349d8ca25a160e2920b6.jpg",
+            "thumbnail": "https://i.ibb.co/NL5T5nm/07f3fd401b37349d8ca25a160e2920b6.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/bHPVY6j/87f0ae4510475360d455383ba4bdfbfe.jpg",
+            "thumbnail": "https://i.ibb.co/bHPVY6j/87f0ae4510475360d455383ba4bdfbfe.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/0YvZm99/6108616d09363f45586ee62ada16d4ec.jpg",
+            "thumbnail": "https://i.ibb.co/0YvZm99/6108616d09363f45586ee62ada16d4ec.jpg"
+          }        
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -1327,12 +1387,30 @@
           }
         ],
         "photoGallery" : [
-          "https://upload.wikimedia.org/wikipedia/commons/b/b1/%D0%A4%D0%B0%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F_%D0%9B._%D0%A3._%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/f/fa/Astra%C5%A1ycki_Haradok-%C5%81ahojsk._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%88%D1%8B%D1%86%D0%BA%D1%96_%D0%93%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA-%D0%9B%D0%B0%D0%B3%D0%BE%D0%B9%D1%81%D0%BA_%28L._Da%C5%A1kievi%C4%8D%2C_1923%29.jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/3/37/%D0%9D%D0%BE%D1%87%D1%8C_%D1%82%D0%B8%D1%85%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/0/05/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%9B%D1%8C%D0%B2%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0._%D0%98%D0%B7_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8..jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/b/b2/%D0%97%D1%96%D0%BC%D0%BE%D0%B2%D1%8B_%D0%BB%D0%B5%D1%81_%D0%BF%D0%B0%D0%B4_%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D0%BC._Zimovy_lies_pad_Mienskam_%28L._Da%C5%A1kievi%C4%8D%29.jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/2/28/Miensk%2C_Lacha%C5%ADka%2C_Sucin._%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%2C_%D0%9B%D1%8F%D1%85%D0%B0%D1%9E%D0%BA%D0%B0%2C_%D0%A1%D1%83%D1%86%D1%96%D0%BD_%28L._Da%C5%A1kievi%C4%8D%2C_1920-29%29.jpg"        
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%D0%A4%D0%B0%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F_%D0%9B._%D0%A3._%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%D0%A4%D0%B0%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F_%D0%9B._%D0%A3._%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Astra%C5%A1ycki_Haradok-%C5%81ahojsk._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%88%D1%8B%D1%86%D0%BA%D1%96_%D0%93%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA-%D0%9B%D0%B0%D0%B3%D0%BE%D0%B9%D1%81%D0%BA_%28L._Da%C5%A1kievi%C4%8D%2C_1923%29.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Astra%C5%A1ycki_Haradok-%C5%81ahojsk._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%88%D1%8B%D1%86%D0%BA%D1%96_%D0%93%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA-%D0%9B%D0%B0%D0%B3%D0%BE%D0%B9%D1%81%D0%BA_%28L._Da%C5%A1kievi%C4%8D%2C_1923%29.jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/%D0%9D%D0%BE%D1%87%D1%8C_%D1%82%D0%B8%D1%85%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/37/%D0%9D%D0%BE%D1%87%D1%8C_%D1%82%D0%B8%D1%85%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%9B%D1%8C%D0%B2%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0._%D0%98%D0%B7_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8..jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/05/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%9B%D1%8C%D0%B2%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0._%D0%98%D0%B7_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8..jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%D0%97%D1%96%D0%BC%D0%BE%D0%B2%D1%8B_%D0%BB%D0%B5%D1%81_%D0%BF%D0%B0%D0%B4_%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D0%BC._Zimovy_lies_pad_Mienskam_%28L._Da%C5%A1kievi%C4%8D%29.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%D0%97%D1%96%D0%BC%D0%BE%D0%B2%D1%8B_%D0%BB%D0%B5%D1%81_%D0%BF%D0%B0%D0%B4_%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D0%BC._Zimovy_lies_pad_Mienskam_%28L._Da%C5%A1kievi%C4%8D%29.jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Miensk%2C_Lacha%C5%ADka%2C_Sucin._%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%2C_%D0%9B%D1%8F%D1%85%D0%B0%D1%9E%D0%BA%D0%B0%2C_%D0%A1%D1%83%D1%86%D1%96%D0%BD_%28L._Da%C5%A1kievi%C4%8D%2C_1920-29%29.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/28/Miensk%2C_Lacha%C5%ADka%2C_Sucin._%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%2C_%D0%9B%D1%8F%D1%85%D0%B0%D1%9E%D0%BA%D0%B0%2C_%D0%A1%D1%83%D1%86%D1%96%D0%BD_%28L._Da%C5%A1kievi%C4%8D%2C_1920-29%29.jpg"
+          }     
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -1404,10 +1482,22 @@
           }
         ],
         "photoGallery" : [
-          "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich11.jpg",
-          "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich15.jpg",
-          "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich14.jpg",
-          "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich12.jpg"
+          {
+            "original":  "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich11.jpg",
+            "thumbnail":  "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich11.jpg"
+          },
+          {
+            "original": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich15.jpg",
+            "thumbnail": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich15.jpg"
+          },
+          {
+            "original": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich14.jpg",
+            "thumbnail": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich14.jpg"
+          },
+          {
+            "original": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich12.jpg",
+            "thumbnail": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich12.jpg"
+          }
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -1459,8 +1549,14 @@
           }
         ],
         "photoGallery" : [
-          "https://vytoki.net/content/00235-3-665x443.jpg?__id33768",
-          "https://vytoki.net/content/00047-5-665x443.jpg?__id33753"
+          {
+            "original": "https://vytoki.net/content/00235-3-665x443.jpg?__id33768",
+            "thumbnail": "https://vytoki.net/content/00235-3-665x443.jpg?__id33768"
+          },
+          {
+            "original": "https://vytoki.net/content/00047-5-665x443.jpg?__id33753",
+            "thumbnail": "https://vytoki.net/content/00047-5-665x443.jpg?__id33753"
+          }
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -1560,11 +1656,26 @@
           }
         ],
         "photoGallery" : [
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_23_48-640x628.jpg",
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_22_52-640x628.jpg",
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_21_64-640x627.jpg",
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_19_77-640x626.jpg",
-          "https://www.velvet.by/files/resize/userfiles/309/velvet_17_106-640x628.jpg"
+          {
+            "original": "https://i.ibb.co/LrKPXyz/velvet-2-624-thumb.jpg",
+            "thumbnail": "https://i.ibb.co/LrKPXyz/velvet-2-624-thumb.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/F8vbdVv/velvet-3-575-640x427.jpg",
+            "thumbnail": "https://i.ibb.co/F8vbdVv/velvet-3-575-640x427.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/tPcg3PR/velvet-4-515-thumb.jpg",
+            "thumbnail": "https://i.ibb.co/tPcg3PR/velvet-4-515-thumb.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/4sZMhQJ/velvet-5-512-thumb.jpg",
+            "thumbnail": "https://i.ibb.co/4sZMhQJ/velvet-5-512-thumb.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/fMC0MVH/velvet-6-458-640x427.jpg",
+            "thumbnail": "https://i.ibb.co/fMC0MVH/velvet-6-458-640x427.jpg"
+          }          
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -1704,11 +1815,26 @@
           }
         ],
         "photoGallery" : [
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak1.jpg",
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak14.jpg",
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak20.jpg",
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak36.jpg",
-          "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak80.jpg"
+          {
+            "original": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak1.jpg",
+            "thumbnail": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak1.jpg"
+          },
+          {
+            "original": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak14.jpg",
+            "thumbnail": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak14.jpg"
+          },
+          {
+            "original":  "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak20.jpg",
+            "thumbnail":  "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak20.jpg"
+          },
+          {
+            "original": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak36.jpg",
+            "thumbnail": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak36.jpg"
+          },
+          {
+            "original": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak80.jpg",
+            "thumbnail": "http://zbor.kalektar.org/wp-content/uploads/sites/3/2018/01/ak80.jpg"
+          }  
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -1792,11 +1918,26 @@
           }
         ],
         "photoGallery" : [
-          "https://imgprx.livejournal.net/c7d8eee299a72a0298c27fa937e039aed9c79139/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXoKlaEmFX0qVGOOqkKITCSpo5MCGGFCJ48sLC5e_mNSKp5i0sAlzfsa5DBQTJM-pzg",
-          "https://imgprx.livejournal.net/b284071c76a2318b2cd9da1d7ad9e2f689a9fe4d/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14pT1jtWI6KfvL5_3Af2lfb_MTGhs1yjqC2K8jIMrlkVM",
-          "https://imgprx.livejournal.net/423d4a3ad39b5c15ea103e5a6d785038f42cf96c/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXpHXzkDks_jmdqurLdgElX3u0deDalmNY_32zBFc2F0foi5rWok-zbGQwbdo0pZyCA",
-          "https://imgprx.livejournal.net/7c78e006a3c3679734aae9735de7250f34146a3b/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14h64DfLT7V3ua1Lf3tW6OVCfi7p1R9Raei7l05UuOHVM",
-          "https://imgprx.livejournal.net/f8ad9cafedc0894011cb2274289539574547fa84/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14XNsfLNSXRrbw758-eIDHykuAU-vLrfwVQ8n0Jf5OmVI"
+          {
+            "original": "https://imgprx.livejournal.net/c7d8eee299a72a0298c27fa937e039aed9c79139/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXoKlaEmFX0qVGOOqkKITCSpo5MCGGFCJ48sLC5e_mNSKp5i0sAlzfsa5DBQTJM-pzg",
+            "thumbnail": "https://imgprx.livejournal.net/c7d8eee299a72a0298c27fa937e039aed9c79139/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXoKlaEmFX0qVGOOqkKITCSpo5MCGGFCJ48sLC5e_mNSKp5i0sAlzfsa5DBQTJM-pzg"
+          },
+          {
+            "original": "https://imgprx.livejournal.net/b284071c76a2318b2cd9da1d7ad9e2f689a9fe4d/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14pT1jtWI6KfvL5_3Af2lfb_MTGhs1yjqC2K8jIMrlkVM",
+            "thumbnail": "https://imgprx.livejournal.net/b284071c76a2318b2cd9da1d7ad9e2f689a9fe4d/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14pT1jtWI6KfvL5_3Af2lfb_MTGhs1yjqC2K8jIMrlkVM"
+          },
+          {
+            "original": "https://imgprx.livejournal.net/423d4a3ad39b5c15ea103e5a6d785038f42cf96c/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXpHXzkDks_jmdqurLdgElX3u0deDalmNY_32zBFc2F0foi5rWok-zbGQwbdo0pZyCA",
+            "thumbnail": "https://imgprx.livejournal.net/423d4a3ad39b5c15ea103e5a6d785038f42cf96c/T6bCI5nnTpOoEuEYFYGYUlhdqvhO0_M8-nAVjRMTGrQ6bc5kJ4BA0Mm119mw0QqH-vg7V99_3l5_3Awl1g_HXpHXzkDks_jmdqurLdgElX3u0deDalmNY_32zBFc2F0foi5rWok-zbGQwbdo0pZyCA"
+          },
+          {
+            "original": "https://imgprx.livejournal.net/7c78e006a3c3679734aae9735de7250f34146a3b/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14h64DfLT7V3ua1Lf3tW6OVCfi7p1R9Raei7l05UuOHVM",
+            "thumbnail": "https://imgprx.livejournal.net/7c78e006a3c3679734aae9735de7250f34146a3b/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14h64DfLT7V3ua1Lf3tW6OVCfi7p1R9Raei7l05UuOHVM"
+          },
+          {
+            "original": "https://imgprx.livejournal.net/f8ad9cafedc0894011cb2274289539574547fa84/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14XNsfLNSXRrbw758-eIDHykuAU-vLrfwVQ8n0Jf5OmVI",
+            "thumbnail": "https://imgprx.livejournal.net/f8ad9cafedc0894011cb2274289539574547fa84/T6bCI5nnTpOoEuEYFYGYUhUYTE3ifulWmYQa-EjQMqSZ7LHkOW_XXYDjp-1bxT14XNsfLNSXRrbw758-eIDHykuAU-vLrfwVQ8n0Jf5OmVI"
+          }
         ],
         "video" : "OUl9EEOXAeY",
         "map" : [54.0398, 21.7714]
@@ -1901,11 +2042,26 @@
           }
         ],
         "photoGallery" : [
-          "http://bdam.by/upload/iblock/610/6108616d09363f45586ee62ada16d4ec.jpg",          
-          "http://bdam.by/upload/iblock/87f/87f0ae4510475360d455383ba4bdfbfe.jpg",          
-          "http://bdam.by/upload/iblock/6b2/6b2f902c2c9c2b9104b900ee95ceb704.jpg",          
-          "http://bdam.by/upload/iblock/4e4/4e4a068c69ce93817acd5861a04b6893.jpg",          
-          "http://bdam.by/upload/iblock/07f/07f3fd401b37349d8ca25a160e2920b6.jpg"          
+          {
+            "original": "https://i.ibb.co/yBYXdB6/4e4a068c69ce93817acd5861a04b6893.jpg",
+            "thumbnail": "https://i.ibb.co/yBYXdB6/4e4a068c69ce93817acd5861a04b6893.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/JQtMJyf/6b2f902c2c9c2b9104b900ee95ceb704.jpg",
+            "thumbnail": "https://i.ibb.co/JQtMJyf/6b2f902c2c9c2b9104b900ee95ceb704.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/NL5T5nm/07f3fd401b37349d8ca25a160e2920b6.jpg",
+            "thumbnail": "https://i.ibb.co/NL5T5nm/07f3fd401b37349d8ca25a160e2920b6.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/bHPVY6j/87f0ae4510475360d455383ba4bdfbfe.jpg",
+            "thumbnail": "https://i.ibb.co/bHPVY6j/87f0ae4510475360d455383ba4bdfbfe.jpg"
+          },
+          {
+            "original": "https://i.ibb.co/0YvZm99/6108616d09363f45586ee62ada16d4ec.jpg",
+            "thumbnail": "https://i.ibb.co/0YvZm99/6108616d09363f45586ee62ada16d4ec.jpg"
+          }        
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -2013,12 +2169,30 @@
           }
         ],
         "photoGallery" : [
-          "https://upload.wikimedia.org/wikipedia/commons/b/b1/%D0%A4%D0%B0%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F_%D0%9B._%D0%A3._%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/f/fa/Astra%C5%A1ycki_Haradok-%C5%81ahojsk._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%88%D1%8B%D1%86%D0%BA%D1%96_%D0%93%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA-%D0%9B%D0%B0%D0%B3%D0%BE%D0%B9%D1%81%D0%BA_%28L._Da%C5%A1kievi%C4%8D%2C_1923%29.jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/3/37/%D0%9D%D0%BE%D1%87%D1%8C_%D1%82%D0%B8%D1%85%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/0/05/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%9B%D1%8C%D0%B2%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0._%D0%98%D0%B7_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8..jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/b/b2/%D0%97%D1%96%D0%BC%D0%BE%D0%B2%D1%8B_%D0%BB%D0%B5%D1%81_%D0%BF%D0%B0%D0%B4_%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D0%BC._Zimovy_lies_pad_Mienskam_%28L._Da%C5%A1kievi%C4%8D%29.jpg",        
-          "https://upload.wikimedia.org/wikipedia/commons/2/28/Miensk%2C_Lacha%C5%ADka%2C_Sucin._%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%2C_%D0%9B%D1%8F%D1%85%D0%B0%D1%9E%D0%BA%D0%B0%2C_%D0%A1%D1%83%D1%86%D1%96%D0%BD_%28L._Da%C5%A1kievi%C4%8D%2C_1920-29%29.jpg"        
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%D0%A4%D0%B0%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F_%D0%9B._%D0%A3._%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%D0%A4%D0%B0%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F_%D0%9B._%D0%A3._%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Astra%C5%A1ycki_Haradok-%C5%81ahojsk._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%88%D1%8B%D1%86%D0%BA%D1%96_%D0%93%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA-%D0%9B%D0%B0%D0%B3%D0%BE%D0%B9%D1%81%D0%BA_%28L._Da%C5%A1kievi%C4%8D%2C_1923%29.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Astra%C5%A1ycki_Haradok-%C5%81ahojsk._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%88%D1%8B%D1%86%D0%BA%D1%96_%D0%93%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA-%D0%9B%D0%B0%D0%B3%D0%BE%D0%B9%D1%81%D0%BA_%28L._Da%C5%A1kievi%C4%8D%2C_1923%29.jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/%D0%9D%D0%BE%D1%87%D1%8C_%D1%82%D0%B8%D1%85%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/37/%D0%9D%D0%BE%D1%87%D1%8C_%D1%82%D0%B8%D1%85%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D1%96%D1%87.jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%9B%D1%8C%D0%B2%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0._%D0%98%D0%B7_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8..jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/05/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%9B%D1%8C%D0%B2%D0%B0_%D0%94%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B0._%D0%98%D0%B7_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2_%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D1%83%D0%B7%D0%B5%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8..jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%D0%97%D1%96%D0%BC%D0%BE%D0%B2%D1%8B_%D0%BB%D0%B5%D1%81_%D0%BF%D0%B0%D0%B4_%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D0%BC._Zimovy_lies_pad_Mienskam_%28L._Da%C5%A1kievi%C4%8D%29.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%D0%97%D1%96%D0%BC%D0%BE%D0%B2%D1%8B_%D0%BB%D0%B5%D1%81_%D0%BF%D0%B0%D0%B4_%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D0%BC._Zimovy_lies_pad_Mienskam_%28L._Da%C5%A1kievi%C4%8D%29.jpg"
+          },
+          {
+            "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Miensk%2C_Lacha%C5%ADka%2C_Sucin._%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%2C_%D0%9B%D1%8F%D1%85%D0%B0%D1%9E%D0%BA%D0%B0%2C_%D0%A1%D1%83%D1%86%D1%96%D0%BD_%28L._Da%C5%A1kievi%C4%8D%2C_1920-29%29.jpg",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/28/Miensk%2C_Lacha%C5%ADka%2C_Sucin._%D0%9C%D0%B5%D0%BD%D1%81%D0%BA%2C_%D0%9B%D1%8F%D1%85%D0%B0%D1%9E%D0%BA%D0%B0%2C_%D0%A1%D1%83%D1%86%D1%96%D0%BD_%28L._Da%C5%A1kievi%C4%8D%2C_1920-29%29.jpg"
+          }     
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -2090,10 +2264,22 @@
           }
         ],
         "photoGallery" : [
-          "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich11.jpg",
-          "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich15.jpg",
-          "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich14.jpg",
-          "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich12.jpg"
+          {
+            "original":  "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich11.jpg",
+            "thumbnail":  "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich11.jpg"
+          },
+          {
+            "original": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich15.jpg",
+            "thumbnail": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich15.jpg"
+          },
+          {
+            "original": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich14.jpg",
+            "thumbnail": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich14.jpg"
+          },
+          {
+            "original": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich12.jpg",
+            "thumbnail": "https://znyata.by/images/stories/interview/lihtarovich/lihtarovich12.jpg"
+          }
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
@@ -2145,8 +2331,14 @@
           }
         ],
         "photoGallery" : [
-          "https://vytoki.net/content/00235-3-665x443.jpg?__id33768",
-          "https://vytoki.net/content/00047-5-665x443.jpg?__id33753"
+          {
+            "original": "https://vytoki.net/content/00235-3-665x443.jpg?__id33768",
+            "thumbnail": "https://vytoki.net/content/00235-3-665x443.jpg?__id33768"
+          },
+          {
+            "original": "https://vytoki.net/content/00047-5-665x443.jpg?__id33753",
+            "thumbnail": "https://vytoki.net/content/00047-5-665x443.jpg?__id33753"
+          }
         ],
         "video" : "null",
         "map" : [53.9020, 27.5605]
