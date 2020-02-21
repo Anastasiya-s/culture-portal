@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom';
 import { AuthorFrame } from './components/authorFrame';
 import { AuthorVideo } from './components/authorVideo';
 import { AuthorBiography } from './components/authorBiography';
+import { MapComponent } from './components/mapComponent';
 
 import authors from '@resources/authors.json';
 
@@ -23,8 +24,8 @@ const AuthorPage = (props) => {
         ? '' 
         : <AuthorVideo src={authors.ru.authors[id].video}
       />}
-      <AuthorBiography biography={authors.ru.authors[id].biography}/>
-      
+      <AuthorBiography biography = {authors.ru.authors[id].biography}/>
+      <MapComponent position = {authors.ru.authors[id].map}/>
     </div>
   ) 
 };
