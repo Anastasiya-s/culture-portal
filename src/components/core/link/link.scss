@@ -1,0 +1,11 @@
+@import "./../../../design/colors.scss";
+
+.links {
+  &__item {
+    color: $secondary;
+    font-size: 18px;
+    &:hover {
+      color: $primary;
+    }
+  }
+}
