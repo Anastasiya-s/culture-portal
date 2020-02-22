@@ -3,21 +3,21 @@ import React from 'react';
 import './style.scss';
 
 import authorsData from '@resources/authors.json';
+
 import Button from '@core/button/Button';
 import Title2 from '@core/titles/components/title2/Title2';
 
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
-} from "react-router-dom";
+import { Link } from "react-router-dom";
 
-const AuthorOfTheDay = (props) => {
-  const authorId = props.authorId;
-  const { name, selfie, yearOfLife, biography } = authorsData.ru.authors[authorId];
+const getAuthorOfTheDay = () => {
+  const today = new Date();
+  const currentDayOfTheMonth = today.getDate();
+  return currentDayOfTheMonth % authorsData.ru.authors.length;
+}
 
-  console.log(props.authorId, ' - authorId');
+const AuthorOfTheDay = () => {
+  const authorId = getAuthorOfTheDay();
+  const { id, name, selfie, yearOfLife, biography } = authorsData.ru.authors[authorId];
 
   return (
     <div className="author-container">
@@ -26,9 +26,9 @@ const AuthorOfTheDay = (props) => {
         <Title2 text={name} />
         <p>{yearOfLife}</p>
         <p>{biography[0].description}</p>
-        <Router>
-            <Link to="/styleguide">Link</Link>
-        </Router>
+        <Link to={`/author/${id}`}>
+          <Button text="Перейти" />
+        </Link>
       </div>
     </div>
   );
