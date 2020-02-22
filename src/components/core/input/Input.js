@@ -1,8 +1,9 @@
 import React from 'react';
+
 import './input.scss';
 
-const Input = (props) => (
-	<input className="form-control" placeholder={props.placeholder}></input>
+const Input = ({ placeholder }) => (
+	<input className="form-control" placeholder={placeholder}></input>
 );
 
 export default Input;

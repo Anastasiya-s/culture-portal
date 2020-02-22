@@ -1,9 +1,12 @@
 import React from 'react';
+
+import { Logo } from './logo';
 import { LngSwitch } from './lngSwitch'
 import { Link } from 'react-router-dom';
 import { NavPoint } from './navPoint';
-import './header.scss';
 import { withTranslation } from 'react-i18next';
+
+import './header.scss';
 import '@src/i18n';
 
 
@@ -11,6 +14,7 @@ const Header = ({ t }) => (
 	<header className="header">
 		<div className="container-fluid">
 			<nav className="nav justify-content-between">
+				<Logo />
 				<Link to="/">
 					<NavPoint text={t('controls:mainPage')} />
 				</Link>
@@ -26,8 +30,8 @@ const Header = ({ t }) => (
 				<Link to="">
 					<NavPoint text={t('controls:worklog')} />
 				</Link>
+				<LngSwitch />
 			</nav>
-			<LngSwitch />
 		</div>
 	</header>
 );
