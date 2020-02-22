@@ -1,8 +1,9 @@
 import React from 'react';
+
 import './link.scss';
 
-const Link = (props) => (
-	<a className="links__item" href={props.href}>{props.text}</a>
+const Link = ({ href, text }) => (
+	<a className="links__item" href={href}>{text}</a>
 );
 
 export default Link;

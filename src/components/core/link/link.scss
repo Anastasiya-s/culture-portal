@@ -2,10 +2,10 @@
 
 .links {
   &__item {
-    color: $secondary;
+    color: $primary;
     font-size: 18px;
     &:hover {
-      color: $primary;
+      color: $secondary;
     }
   }
 }

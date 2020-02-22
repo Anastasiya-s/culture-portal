@@ -1,9 +1,10 @@
 import React from 'react';
+
 import './button.scss';
 
-const Button = (props) => (
+const Button = ({ text }) => (
 	<button className="btn btn-outline-info">
-		{props.text}
+		{text}
 	</button>
 );
 

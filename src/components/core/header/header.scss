@@ -2,13 +2,16 @@
 
 .header {
   background-color: $primary;
+  &-logo {
+    margin: auto 0;
+    height: 40px;
+  }
 }
 
 .nav {
-  margin-bottom: 50px;
   font-size: 20px;
-  justify-content: space-between;
   &-link {
+    padding: 1rem;
     color: $primary-text;
     &:hover {
       color: $secondary-text;
