@@ -2,7 +2,7 @@ import React from 'react';
 
 import './link.scss';
 
-const Link = ({ href, text }) => (
+const Link = ({ text, href }) => (
 	<a className="links__item" href={href}>{text}</a>
 );
 

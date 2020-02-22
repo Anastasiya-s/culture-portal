@@ -1,12 +1,12 @@
 import React from 'react';
 
-import { Title1 } from '@core/titles/components/title1/Title1';
-import { Link } from '@core/link/Link';
-import { Button } from '@core/button/Button';
-import { Input } from '@core/input/Input';
-import { Titles } from '@core/titles/Titles';
-import { Colors } from '../main/components/colors/Colors';
-import { Paragraph } from '@core/paragraph/Paragraph';
+import { Title1 } from '@core/titles/components/title1';
+import { Link } from '@core/link';
+import { Button } from './../../../../core/button';
+import { Input } from '@core/input';
+import { Titles } from '@core/titles';
+import { Colors } from '../main/components/colors';
+import { Paragraph } from '@core/paragraph';
 
 import './main.scss';
 
