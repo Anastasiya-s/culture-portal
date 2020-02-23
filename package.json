@@ -52,6 +52,7 @@
   "devDependencies": {
     "i18n-loader": "^0.3.0",
     "i18next": "^19.2.0",
-    "react-i18next": "^11.3.3"
+    "react-i18next": "^11.3.3",
+    "react-select": "^3.0.8"
   }
 }

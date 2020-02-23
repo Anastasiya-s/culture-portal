@@ -3,13 +3,14 @@ import { Link, useParams } from 'react-router-dom';
 import { withTranslation } from 'react-i18next';
 
 import { AuthorCard } from './components/author-card';
-
+import { Searchbar } from './components/searchbar';
 import '@src/i18n';
 
 const SearchPage = ({ t }) => {
   const authorsArray = t('authors:authors');
   return (
     <div>
+      <Searchbar />
       <ul>{authorsArray.map(author => 
         <li key={author.id} >
           <Link to={`/author/${author.id}`} >
