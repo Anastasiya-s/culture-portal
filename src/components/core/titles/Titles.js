@@ -8,7 +8,7 @@ import Title5 from '@core/titles/components/title5/Title5';
 import Title6 from '@core/titles/components/title6/Title6';
 
 const Titles = () => (
-	<div className="titles col-6">
+	<div className="titles col-xl-7">
 		<Title1 text="Заголовок первого уровня" />
 		<Title2 text="Заголовок второго уровня" />
 		<Title3 text="Заголовок третьего уровня" />

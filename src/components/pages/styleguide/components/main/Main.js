@@ -15,8 +15,8 @@ const Main = () => (
 		<Title1 text="Руководство по стилю" className="main-title" />
 
 		<div className="main-top d-flex justify-content-between">
-			<Link text="Пример ссылки" href="#" />
-			<Button text="Пример кнопки" />
+			<Link text="Пример ссылки" href="#" className="links__item main__item" />
+			<Button text="Пример кнопки" className="btn btn-outline-info main__btn" />
 			<Input placeholder="Пример инпута" />
 		</div>
 
@@ -24,7 +24,7 @@ const Main = () => (
 			<Titles />
 			<Paragraph
 				text="Это пример параграфа. 		Далеко-далеко за словесными горами в стране гласных и согласных живут рыбные тексты. Наш семантика осталось мир гор толку речью. Своего всеми большой, первую на берегу ipsum алфавит до свою имеет снова силуэт буквоград?"
-				className="main-paragraph col-4" />
+				className="main-paragraph col-lg-5 col-xl-4" />
 		</div>
 		<Colors />
 	</div>
