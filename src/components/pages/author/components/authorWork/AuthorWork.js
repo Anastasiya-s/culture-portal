@@ -1,18 +1,17 @@
 import React from 'react';
 
-const AuthorWork = (props) => {
-  console.log(props.tableTitle);
+const AuthorWork = ({text, tableTitle, works}) => {
   return (<div>
-    <h2 style={{ textAlign: 'center' }}>{props.text}</h2>
+    <h2 style={{ textAlign: 'center' }}>{text}</h2>
     <table className='table table-striped'>
       <thead>
         <tr>
-          <th>{props.tableTitle.year}</th>
-          <th>{props.tableTitle.work}</th>
+          <th>{tableTitle.year}</th>
+          <th>{tableTitle.work}</th>
         </tr>
       </thead>
       <tbody>
-        {props.works.map((v, i) => (
+        {works.map((v, i) => (
           <tr key={i}>
             <td>{v.year}</td>
             <td>{v.description}</td>
