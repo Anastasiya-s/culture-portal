@@ -26,9 +26,16 @@ const AuthorPage = ({ t }) => {
         ? ''
         : <AuthorVideo src={author.video}
         />}
-      <AuthorBiography text={t('controls:biography')} biography={author.biography} />
-      <AuthorWork text={t('controls:worksOfAuthor')} tableTitle={{ "year": t('controls:year'), "work": t('controls:work') }} works={author.listOfWorks} />
-      <MyImageGallery text={t('controls:gallery')} images={author.photoGallery} />
+      <AuthorBiography 
+        text={t('controls:biography')} 
+        biography={author.biography} />
+      <AuthorWork 
+        text={t('controls:worksOfAuthor')} 
+        tableTitle={{ "year": t('controls:year'), "work": t('controls:work') }} 
+        works={author.listOfWorks} />
+      <MyImageGallery 
+        text={t('controls:gallery')} 
+        images={author.photoGallery} />
       <MapComponent position={author.map} />
     </div>
   )
