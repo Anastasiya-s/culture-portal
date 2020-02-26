@@ -27,7 +27,7 @@ const Header = ({ t }) => (
 				<Link to="/styleguide">
 					<NavPoint text={t('controls:styleguide')} />
 				</Link>
-				<Link to="">
+				<Link to="/worklog">
 					<NavPoint text={t('controls:worklog')} />
 				</Link>
 				<LngSwitch />
