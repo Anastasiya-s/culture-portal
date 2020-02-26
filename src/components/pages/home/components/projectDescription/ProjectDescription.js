@@ -1,10 +1,11 @@
 import React from 'react';
+import { withTranslation } from 'react-i18next';
 
 import Title1 from '@core/titles/components/title1/Title1';
 
-const ProjectDescription = () => (
+const ProjectDescription = ({t}) => (
   <div>
-    <Title1 text="Culture Portal"/>
+    <Title1 text={t('controls:title')}/>
     <div>
       Cupidatat officia aliquip ex proident. Lorem pariatur incididunt in labore deserunt consequat laboris quis labore. Excepteur proident sint laboris nisi cupidatat sit velit ea aute aute. Commodo elit ut do et est irure. Cupidatat deserunt anim ipsum amet laboris irure.
 
@@ -17,4 +18,4 @@ Laborum reprehenderit qui exercitation quis eu dolor consectetur esse eiusmod no
   </div>
 );
 
-export default ProjectDescription;
+export default withTranslation()(ProjectDescription);
