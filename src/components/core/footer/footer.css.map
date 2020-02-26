@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,OAAO,CAAC;EACN,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EACpB,gBAAgB,ECLR,OAAO;CDWhB;;AALE,AAAD,aAAO,CAAC;EACN,aAAa,EAAE,CAAC;EAChB,KAAK,ECLM,OAAO;EDMlB,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "footer.scss",
+        "../../../design/colors.scss"
+    ],
+    "names": [],
+    "file": "footer.css"
+}

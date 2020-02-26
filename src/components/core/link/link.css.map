@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGG,AAAD,YAAO,CAAC;EACN,KAAK,ECHG,OAAO;EDIf,SAAS,EAAE,IAAI;CAIhB;;AANA,AAGC,YAHK,AAGJ,MAAM,CAAC;EACN,KAAK,ECPD,OAAO;CDQZ",
+    "sources": [
+        "link.scss",
+        "../../../design/colors.scss"
+    ],
+    "names": [],
+    "file": "link.css"
+}
