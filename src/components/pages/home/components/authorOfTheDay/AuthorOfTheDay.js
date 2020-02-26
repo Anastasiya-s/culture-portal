@@ -27,7 +27,7 @@ const AuthorOfTheDay = ({t}) => {
         <p>{yearOfLife}</p>
         <p>{biography[0].description}</p>
         <Link to={`/author/${id}`}>
-          <Button text={t('controls:showMore')} />
+          <Button className="btn btn-outline-info main__btn" text={t('controls:showMore')} />
         </Link>
       </div>
     </div>

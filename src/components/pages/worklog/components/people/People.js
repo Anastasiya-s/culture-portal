@@ -12,16 +12,18 @@ function People({ t }) {
       <thead className="thead">
         <tr>
           <th>
-            Время
-        </th>
+            {t('controls:time')}
+          </th>
           <th>
-            Фича
-        </th>
+            {t('controls:feature')}
+          </th>
         </tr>
       </thead>
-      {team.map((v, i) => (
-        <GetPerson key={i} prsn={v} />
-      ))}
+      <tbody>
+        {team.map((v, i) => (
+          <GetPerson key={i} prsn={v} />
+        ))}
+      </tbody>
     </table>
   );
 }

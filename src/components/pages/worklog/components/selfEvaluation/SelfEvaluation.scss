@@ -1,0 +1,8 @@
+.task-list-item {
+  list-style-type: none;
+
+  &>input {
+    margin: 0px 0.35em 0.25em -1.6em;
+    vertical-align: middle;
+  }
+}

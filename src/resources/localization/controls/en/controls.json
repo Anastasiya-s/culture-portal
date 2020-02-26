@@ -11,5 +11,9 @@
   "year":"Year",
   "work":"Work",
   "showMore":"Show more",
-  "title": "Culture portal"
+  "title": "Culture portal",
+  "selfEvaluation":"Self-evaluation",
+  "difficulties": "Difficulties",
+  "time":"Time spent",
+  "feature":"Feature"
 }
