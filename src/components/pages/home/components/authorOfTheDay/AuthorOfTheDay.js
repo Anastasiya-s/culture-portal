@@ -4,6 +4,7 @@ import Button from '@core/button/Button';
 import Title2 from '@core/titles/components/title2/Title2';
 
 import { Link } from "react-router-dom";
+import { withTranslation } from 'react-i18next';
 
 import authorsData from '@resources/authors.json';
 import './style.scss';
@@ -14,9 +15,9 @@ const getAuthorOfTheDay = () => {
   return currentDayOfTheMonth % authorsData.ru.authors.length;
 }
 
-const AuthorOfTheDay = () => {
+const AuthorOfTheDay = ({t}) => {
   const authorId = getAuthorOfTheDay();
-  const { id, name, selfie, yearOfLife, biography } = authorsData.ru.authors[authorId];
+  const { id, name, selfie, yearOfLife, biography } = t('authors:authors')[authorId];
 
   return (
     <div className="author-container">
@@ -26,11 +27,11 @@ const AuthorOfTheDay = () => {
         <p>{yearOfLife}</p>
         <p>{biography[0].description}</p>
         <Link to={`/author/${id}`}>
-          <Button text="Перейти" />
+          <Button text={t('controls:showMore')} />
         </Link>
       </div>
     </div>
   );
 }
 
-export default AuthorOfTheDay;
+export default withTranslation()(AuthorOfTheDay);

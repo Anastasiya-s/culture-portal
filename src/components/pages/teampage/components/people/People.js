@@ -1,7 +1,7 @@
 import React from "react";
 
 import {GetPerson} from "../getPerson";
-import  '../../teampage.css' ; 
+import  '../../teampage.scss' ; 
 import { withTranslation } from 'react-i18next';
 
 function People({t}) {  
