@@ -6,6 +6,7 @@ import { withTranslation } from 'react-i18next';
 
 import { People } from './components/people';
 import { SelfEvaluation } from './components/selfEvaluation';
+import { Difficulties } from './components/difficulties';
 
 const WorkLog = ({ t }) => (
   <div className="container" style={{ marginBottom: 100 }}>
@@ -20,7 +21,7 @@ const WorkLog = ({ t }) => (
         <People />
       </TabPanel>
       <TabPanel>
-        Any content 2
+        <Difficulties/>
     </TabPanel>
       <TabPanel>
         <SelfEvaluation />
