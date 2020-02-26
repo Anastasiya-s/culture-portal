@@ -1,0 +1,8 @@
+table{border:1px;}
+tr>p::before{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    content: "";
+    background-image:"../../../resources/images/done.png" ;
+}

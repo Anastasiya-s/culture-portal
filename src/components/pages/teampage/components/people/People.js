@@ -1,7 +1,7 @@
 import React from "react";
 
-import { GetPerson } from "../getPerson";
-import "./../../style.css";
+import {GetPerson} from "../getPerson";
+import  '../../style.css' ; 
 const team = [
   {
     name: "Denis Poleshchuk",
@@ -172,19 +172,14 @@ const team = [
     ]
   }
 ];
-//<GetPerson prsn={team[0]} />
-//props.log.map((v, i) => (
-//<ItemWorkLog item={v} />
-//))
-function People() {
-  console.log(team);
-  return (
-    
-    <table>
+
+function People() {  
+  return (       
+    <div className="card-wrap">
      { team.map((v, i) => (
       <GetPerson prsn={v} />
       ))}
-    </table>
+    </div>
   );
 }
 

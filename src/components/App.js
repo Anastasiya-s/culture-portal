@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 import { HomePage } from './pages/home';
 import {WorkLogPage} from './pages/worklog';
+import {TeamPage} from './pages/teampage';
 import { SearchPage } from './pages/search';
 import { StyleguidePage } from './pages/styleguide';
 import { Header } from '@core/header';
@@ -16,6 +17,7 @@ class App extends React.Component {
         <Switch>
           <Route path="/" exact component={HomePage} />
           <Route path="/worklog" component={WorkLogPage}/>
+          <Route path="/teampage" component={TeamPage}/>
           {/*  />
           <Route path="/search" component={SearchPage} />
           <Route path="/styleguide" exact component={StyleguidePage} />

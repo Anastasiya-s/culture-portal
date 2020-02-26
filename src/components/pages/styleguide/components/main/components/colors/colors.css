@@ -1,0 +1,22 @@
+.bg__block {
+  width: 50px;
+  height: 30px;
+  border: 1px dashed #495057;
+}
+
+.primary {
+  background-color: #34d1b2;
+}
+
+.primary-text {
+  background-color: #ffffff;
+}
+
+.secondary {
+  background-color: #17a2b8;
+}
+
+.secondary-text {
+  background-color: #495057;
+}
+/*# sourceMappingURL=colors.css.map */

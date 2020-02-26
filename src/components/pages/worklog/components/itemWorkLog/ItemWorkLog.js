@@ -3,10 +3,11 @@ import React from "react";
   function ItemWorkLog(props) {
     console.log(props);
     return (
-      <div>
-        <p>{props.item.time}</p>
-        <p>{props.item.description}</p>
-      </div>
+      <tr>
+        <td>{props.name}</td>
+        <td>{props.item.time}</td>
+        <td>{props.item.description}</td>
+        </tr>
     );
   }
 

@@ -13,13 +13,13 @@ const Header = () => (
 				<Link to="/search">
 					<NavPoint text="Поиск по фотографам"  />
 				</Link>
-				<Link to="/team">
+				<Link to="/teampage">
 					<NavPoint text="Наша команда" />
 				</Link>
 				<Link to="/styleguide">
 					<NavPoint text="Стайлгайд" />
 				</Link>
-				<Link to="">
+				<Link to="worklog">
 					<NavPoint text="Ворклог"  />
 				</Link>
 
