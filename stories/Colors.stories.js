@@ -1,43 +1,36 @@
 import React from 'react';
 
-// import { Title1 } from '../src/components/core/titles/components/title1';
+import { PrimaryColor } from '../src/components/pages/styleguide/components/main/components/colors/components/primary_color';
+import { SecondaryColor } from '../src/components/pages/styleguide/components/main/components/colors/components/secondary_color';
+import { PrimaryText } from '../src/components/pages/styleguide/components/main/components/colors/components/primary_text';
+import { SecondaryText } from '../src/components/pages/styleguide/components/main/components/colors/components/secondary_text';
+
+import './../src/components/pages/styleguide/components/main/components/colors/colors.css';
 
 export default {
 	title: 'Colors'
 };
 
-export const Color_example = () => {
+export const Primary_color = () => {
 	return (
-		{/* <Title1 text="Заголовок первого уровня" /> */ }
+		<PrimaryColor />
 	)
 }
 
-// export const Title2_example = () => {
-// 	return (
-// 		<Title2 text="Заголовок второго уровня" />
-// 	)
-// }
+export const Secondary_color = () => {
+	return (
+		<SecondaryColor />
+	)
+}
 
-// export const Title3_example = () => {
-// 	return (
-// 		<Title3 text="Заголовок третьего уровня" />
-// 	)
-// }
+export const Primary_text_color = () => {
+	return (
+		<PrimaryText />
+	)
+}
 
-// export const Title4_example = () => {
-// 	return (
-// 		<Title4 text="Заголовок четвертого уровня" />
-// 	)
-// }
-
-// export const Title5_example = () => {
-// 	return (
-// 		<Title5 text="Заголовок пятого уровня" />
-// 	)
-// }
-
-// export const Title6_example = () => {
-// 	return (
-// 		<Title6 text="Заголовок шестого уровня" />
-// 	)
-// }
+export const Secondary_text_color = () => {
+	return (
+		<SecondaryText />
+	)
+}
