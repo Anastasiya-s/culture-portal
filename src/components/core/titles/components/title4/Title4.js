@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Title4 = (props) => (
-	<h4>{props.text}</h4>
+const Title4 = ({ className, text }) => (
+	<h4 className={className}>{text}</h4>
 );
 
 export default Title4;

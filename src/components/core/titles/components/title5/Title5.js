@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Title5 = (props) => (
-	<h5>{props.text}</h5>
+const Title5 = ({ className, text }) => (
+	<h5 className={className}>{text}</h5>
 );
 
 export default Title5;

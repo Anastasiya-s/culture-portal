@@ -10,7 +10,8 @@ module.exports = {
   resolve: {
     alias: {
       '@core': path.resolve(__dirname, 'src/components/core/'),
-      '@resources': path.resolve(__dirname, 'src/resources/localization/')
+      '@resources': path.resolve(__dirname, 'src/resources/localization/'),
+      '@src': path.resolve(__dirname, 'src')
     }
   },
   module: {
