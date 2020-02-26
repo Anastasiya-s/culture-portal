@@ -1,17 +1,17 @@
 import React from 'react';
 
-import { Input } from '@core/input'; 
 import { SearchOptionsSelect } from './components/search-options-select';
+import { AuthorsSelect } from './components/authors-select';
 
-const Searchbar = () => (
+const Searchbar = ({ searchOption, authorsList }) => (
   <div>
     <div>
-      <Input />
-    </div>
-    <div>
+      <div>{searchOption}</div>
+      <AuthorsSelect authorsList={authorsList} searchOption={searchOption}/>
       <SearchOptionsSelect />
     </div>
   </div>
 );
+
 
 export default Searchbar;
