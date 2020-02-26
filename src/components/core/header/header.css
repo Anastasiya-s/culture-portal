@@ -1,16 +1,18 @@
 .header {
-  background-color: #34d1b2;
+  background-color: #17a2b8;
+}
+
+.header-logo {
+  margin: auto 0;
+  height: 40px;
 }
 
 .nav {
-  margin-bottom: 50px;
   font-size: 20px;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
 }
 
 .nav-link {
+  padding: 1rem;
   color: #ffffff;
 }
 

@@ -1,4 +1,22 @@
+* {
+  font-family: "Exo 2";
+}
+
+.main-title {
+  margin-top: 80px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+
 .main-top {
-  margin-bottom: 50px;
+  margin-bottom: 70px;
+}
+
+.main-text {
+  margin-bottom: 70px;
+}
+
+a:hover {
+  text-decoration: none;
 }
 /*# sourceMappingURL=main.css.map */

@@ -5,7 +5,7 @@
 }
 
 .primary {
-  background-color: #34d1b2;
+  background-color: #17a2b8;
 }
 
 .primary-text {
@@ -13,10 +13,14 @@
 }
 
 .secondary {
-  background-color: #17a2b8;
+  background-color: #5ccccc;
 }
 
 .secondary-text {
   background-color: #495057;
+}
+
+.colors {
+  margin-bottom: 50px;
 }
 /*# sourceMappingURL=colors.css.map */

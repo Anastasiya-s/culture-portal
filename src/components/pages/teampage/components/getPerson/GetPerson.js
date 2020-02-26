@@ -1,6 +1,6 @@
 import React from "react";
 //import {PrsnWorklog} from "../prsnWorkLog";
-import "../../style.css";
+import "../../teampage.css";
 function GetPerson(props) {
   console.log("getPeople");
 
@@ -9,10 +9,10 @@ function GetPerson(props) {
     <div className="card-item">
       <div className="card-item-wrap">
         <div>
-          <img src={props.prsn.image} alt="avatar" />
+          <img className="avatar" src={props.prsn.image} alt="avatar" />
           <h2> {props.prsn.name}</h2>
           <a href={props.prsn.linkGit} alt="git">
-            Githab
+            Github
           </a>
           <br />
         </div>
