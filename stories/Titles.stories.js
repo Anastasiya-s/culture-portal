@@ -7,10 +7,8 @@ import { Title4 } from '../src/components/core/titles/components/title4';
 import { Title5 } from '../src/components/core/titles/components/title5';
 import { Title6 } from '../src/components/core/titles/components/title6';
 
-import './../src/components/core/link/link.css';
-
 export default {
-	title: 'Title'
+	title: 'Titles'
 };
 
 export const Title1_example = () => {
