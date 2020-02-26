@@ -18,11 +18,11 @@ class App extends React.Component {
         <Switch>
           <Route path="/" exact component={HomePage} />
           <Route path="/worklog" component={WorkLogPage}/>
-          <Route path="/teampage" component={TeamPage}/>
+          <Route path="/team" component={TeamPage}/>
           {/*  />
           <Route path="/author/:id" exact component={AuthorPage} />
           {/* <Route path="/team" component={TeamPage} />*/}
-          <Route path="/search" component={SearchPage} />
+         <Route path="/search" component={SearchPage} />
           <Route path="/styleguide" exact component={StyleguidePage} />
           {/* <Route path="/team" component={TeamPage} />
           <Route path="/personal-info" component={PersonalPage} /> */}
