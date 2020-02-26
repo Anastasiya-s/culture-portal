@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "repository": {
     "type": "git",
@@ -51,6 +53,10 @@
     "webpack-dev-server": "^3.10.3"
   },
   "devDependencies": {
+    "@storybook/addon-actions": "^5.3.14",
+    "@storybook/addon-links": "^5.3.14",
+    "@storybook/addons": "^5.3.14",
+    "@storybook/react": "^5.3.14",
     "i18n-loader": "^0.3.0",
     "i18next": "^19.2.0",
     "react-i18next": "^11.3.3"
