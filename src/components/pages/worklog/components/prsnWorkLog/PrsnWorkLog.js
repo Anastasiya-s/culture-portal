@@ -3,13 +3,10 @@ import { ItemWorkLog } from "../itemWorkLog";
 import "../../style.scss";
 
 function PrsnWorklog(props) {
-  console.log("PrsnWorklog");
-  console.log(props.name);
-  //var children = [];
   return (
     <React.Fragment>
       {props.log.map((v, i) => (
-        <ItemWorkLog item={v} name={props.nameLog}/>
+        <ItemWorkLog item={v} key={i} name={props.nameLog} />
       ))}
     </React.Fragment>
   );

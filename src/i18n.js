@@ -9,6 +9,9 @@ import controls_be from "@resources/controls/be/controls.json";
 import content from "@resources/authors.json";
 import teamMembers from "@resources/team.json";
 
+import evaluationText_en from "@resources/evaluation/en.json"
+import evaluationText_ru from "@resources/evaluation/ru.json"
+
 i18n
   .use(initReactI18next)
   .init({
@@ -24,17 +27,20 @@ i18n
       en: {
         controls: controls_en,
         authors: content.en,
-        team:teamMembers.en
+        team: teamMembers.en,
+        evaluation: evaluationText_en
       },
       ru: {
         controls: controls_ru,
         authors: content.ru,
-        team:teamMembers.ru
+        team: teamMembers.ru,
+        evaluation: evaluationText_ru
       },
       be: {
         controls: controls_be,
         authors: content.be,
-        team: teamMembers.be
+        team: teamMembers.be,
+        evaluation: evaluationText_ru
       },
     },
   });

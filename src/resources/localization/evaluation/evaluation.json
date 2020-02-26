@@ -1,0 +1,108 @@
+{
+  "min": [
+    {
+      "isDone": true,
+      "mark": 10,
+      "description": "main"
+    },
+    {
+      "isDone": true,
+      "mark": 10,
+      "description": "team"
+    },
+    {
+      "isDone": true,
+      "mark": 10,
+      "description": "search"
+    },
+    {
+      "isDone": true,
+      "mark": 20,
+      "description": "twoLang"
+    }
+  ],
+  "normal":[
+    {
+      "isDone": true,
+      "mark": 20,
+      "description": "styleguide"
+    },
+    {
+      "isDone": false,
+      "mark": 10,
+      "description": "mobile"
+    },
+    {
+      "isDone": false,
+      "mark": 10,
+      "description": "tablet"
+    },
+    {
+      "isDone": true,
+      "mark": 10,
+      "description": "timeline"
+    },
+    {
+      "isDone": true,
+      "mark": 10,
+      "description": "video"
+    },
+    {
+      "isDone": true,
+      "mark": 20,
+      "description": "gallery"
+    },
+    {
+      "isDone": true,
+      "mark": 10,
+      "description": "map"
+    },
+    {
+      "isDone": true,
+      "mark": "0 - 20",
+      "description": "design"
+    },
+    {
+      "isDone": true,
+      "mark": 20,
+      "description": "bootstrap"
+    },
+    {
+      "isDone": true,
+      "mark": 10,
+      "description": "threeLang"
+    }
+  ],
+  "extra":[
+    {
+      "isDone": true,
+      "mark": 10,
+      "description": "presentation"
+    },
+    {
+      "isDone": false,
+      "mark": 10,
+      "description": "gatsbyjs"
+    },
+    {
+      "isDone": false,
+      "mark": 10,
+      "description": "cms"
+    },
+    {
+      "isDone": false,
+      "mark": 20,
+      "description": "effects"
+    },
+    {
+      "isDone": true,
+      "mark": "0 - 20",
+      "description": "outstandingDesign"
+    },
+    {
+      "isDone": false,
+      "mark": 20,
+      "description": "styleguideTool"
+    }
+  ]
+}

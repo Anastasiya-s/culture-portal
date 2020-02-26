@@ -19,9 +19,11 @@ function People({ t }) {
         </th>
         </tr>
       </thead>
-      {team.map((v, i) => (
-        <GetPerson key={i} prsn={v} />
-      ))}
+      <tbody>
+        {team.map((v, i) => (
+          <GetPerson key={i} prsn={v} />
+        ))}
+      </tbody>
     </table>
   );
 }

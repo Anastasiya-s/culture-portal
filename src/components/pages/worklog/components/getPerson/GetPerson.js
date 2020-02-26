@@ -5,7 +5,7 @@ import { PrsnWorklog } from "../prsnWorkLog";
 function GetPerson(props) {
   return (
       <React.Fragment>
-        <tr className="thead-inverse" style={{columnSpan:2, textAlign:"center"}}>{props.prsn.name}</tr>
+        <tr><td  colSpan={2} style={{textAlign:"center"}}>{props.prsn.name}</td></tr>
         <PrsnWorklog log={props.prsn.workLog} nameLog={props.prsn.name} />  
         </React.Fragment>
           
