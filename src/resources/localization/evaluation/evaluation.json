@@ -100,7 +100,7 @@
       "description": "outstandingDesign"
     },
     {
-      "isDone": false,
+      "isDone": true,
       "mark": 20,
       "description": "styleguideTool"
     }
