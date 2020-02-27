@@ -1,0 +1,9 @@
+.task-list-item {
+  list-style-type: none;
+}
+
+.task-list-item > input {
+  margin: 0px 0.35em 0.25em -1.6em;
+  vertical-align: middle;
+}
+/*# sourceMappingURL=SelfEvaluation.css.map */
