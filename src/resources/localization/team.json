@@ -44,24 +44,24 @@
         "image": "https://avatars0.githubusercontent.com/u/51420320?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Создание основных компонентов (header, footer, button , input, link, paragraph, titles)"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Создание страницы стайлгайда + адаптация"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "10ч",
+            "description": "Gatsbyjs"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Storybook/styleguidist - чтение об инструментах/просмотр видео/сравнение"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Установка Storybook на проект"
           }
         ]
       },
@@ -188,24 +188,24 @@
         "image": "https://avatars0.githubusercontent.com/u/51420320?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3h",
+            "description": "Create core components (header, footer, button , input, link, paragraph, titles)"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2h",
+            "description": "Create styleguide page + adaptation"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "10h",
+            "description": "Gatsbyjs"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2h",
+            "description": "Storybook/styleguidist - read about this tools, watch video, compare"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3h",
+            "description": "Install Storybook to the project"
           }
         ]
       },
@@ -332,24 +332,24 @@
         "image": "https://avatars0.githubusercontent.com/u/51420320?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Стварэнне асноўных кампанентаў (header, footer, button , input, link, paragraph, titles)"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Стварэнне старонкі стайлгайду + адаптацыя"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "10ч",
+            "description": "Gatsbyjs"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Storybook/styleguidist - чытанне аб інструментах / прагляд відэа / параўнанне"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Ўстаноўка Storybook на праект"
           }
         ]
       },
