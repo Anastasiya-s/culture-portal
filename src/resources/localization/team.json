@@ -8,24 +8,12 @@
         "image": "https://avatars3.githubusercontent.com/u/48986345?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "9ч",
+            "description": "Заполнял json данными"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "8ч",
+            "description": "Реализовал author page"
           }
         ]
       },
@@ -36,24 +24,16 @@
         "image": "https://avatars0.githubusercontent.com/u/33596224?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Знакомство с библиотекой i18n"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "10ч",
+            "description": "Добавление локализации на портал"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4ч",
+            "description": "Окончательная вёрстка страницы ворклога"
           }
         ]
       },
@@ -64,52 +44,48 @@
         "image": "https://avatars0.githubusercontent.com/u/51420320?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Создание основных компонентов (header, footer, button , input, link, paragraph, titles)"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Создание страницы стайлгайда + адаптация"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "10ч",
+            "description": "Gatsbyjs"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Storybook/styleguidist - чтение об инструментах/просмотр видео/сравнение"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Установка Storybook на проект"
           }
         ]
       },
       {
-        "name": "Анастасия Sukhaverkhaya",
+        "name": "Анастасия Суховерхая",
         "linkGit": "https://github.com/Anastasiya-s/",
         "description": "Человек хороший. Сделал все",
         "image": "https://avatars0.githubusercontent.com/u/37982141?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4ч",
+            "description": "Основная структура проекта"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "1ч",
+            "description": "Рендер списка авторов"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4ч",
+            "description": "Опции поиска и поисковая строка"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "8ч",
+            "description": "Подключить поисковую строку к списку авторов"
           }
         ]
       },
@@ -148,24 +124,20 @@
         "image": "https://avatars2.githubusercontent.com/u/55503710?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "6ч",
+            "description": "Создал базовый макет для страницы команды"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Стиль для страницы команды"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "8ч",
+            "description": "Создал базовую структуру для страницы ворклога"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4ч",
+            "description": "Создан базовый макет для страницы ворклога"
           }
         ]
       }
@@ -180,24 +152,12 @@
         "image": "https://avatars3.githubusercontent.com/u/48986345?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "9h",
+            "description": "Filled the json file with data"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "8h",
+            "description": "Implemented author page"
           }
         ]
       },
@@ -208,24 +168,16 @@
         "image": "https://avatars0.githubusercontent.com/u/33596224?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3h",
+            "description": "Introduction to the i18n library"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "10h",
+            "description": "Adding localization to the portal"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4h",
+            "description": "Final layout of the worklog page"
           }
         ]
       },
@@ -236,24 +188,24 @@
         "image": "https://avatars0.githubusercontent.com/u/51420320?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3h",
+            "description": "Create core components (header, footer, button , input, link, paragraph, titles)"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2h",
+            "description": "Create styleguide page + adaptation"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "10h",
+            "description": "Gatsbyjs"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2h",
+            "description": "Storybook/styleguidist - read about this tools, watch video, compare"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3h",
+            "description": "Install Storybook to the project"
           }
         ]
       },
@@ -264,24 +216,20 @@
         "image": "https://avatars0.githubusercontent.com/u/37982141?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4h",
+            "description": "Main project structure"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "1h",
+            "description": "Render authors list"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4h",
+            "description": "Select search option & searchbar"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "8h",
+            "description": "Connect searchbar with authors list"
           }
         ]
       },
@@ -320,24 +268,20 @@
         "image": "https://avatars2.githubusercontent.com/u/55503710?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "6h",
+            "description": "Created a basic layout for teampage"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2h",
+            "description": "Style for teampage"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "8h",
+            "description": "Created the basic architecture for worklog"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4h",
+            "description": "created a basic layout for worklog"
           }
         ]
       }
@@ -346,119 +290,95 @@
   "be": {
     "team": [
       {
-        "name": "Denis Poleshchuk",
+        "name": "Дзяніс Паляшчук",
         "description": "Человек хороший. Сделал все",
         "linkGit": "https://github.com/ronoarus",
         "image": "https://avatars3.githubusercontent.com/u/48986345?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "9ч",
+            "description": "Запаўняў json дадзенымі"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "8ч",
+            "description": "Рэалізаваў старонку аўтара"
           }
         ]
       },
       {
-        "name": "Vladislav Matveev",
+        "name": "Уладзіслаў Мацвееў",
         "linkGit": "https://github.com/invisiblespectator",
         "description": "Человек хороший. Сделал все",
         "image": "https://avatars0.githubusercontent.com/u/33596224?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Знаёмства з бібліятэкай i18n"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "10ч",
+            "description": "Даданне лакалізацыі на партал"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4ч",
+            "description": "Канчатковая вёрстка старонкі ворклога"
           }
         ]
       },
       {
-        "name": "Anzhela Martsinovich",
+        "name": "Анжэла Марцинович",
         "linkGit": "https://github.com/AnzhelaMartsinovich",
         "description": "Человек хороший. Сделал все",
         "image": "https://avatars0.githubusercontent.com/u/51420320?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Стварэнне асноўных кампанентаў (header, footer, button , input, link, paragraph, titles)"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Стварэнне старонкі стайлгайду + адаптацыя"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "10ч",
+            "description": "Gatsbyjs"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Storybook/styleguidist - чытанне аб інструментах / прагляд відэа / параўнанне"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "3ч",
+            "description": "Ўстаноўка Storybook на праект"
           }
         ]
       },
       {
-        "name": "Anastasiya Sukhaverkhaya",
+        "name": "Анастасія Сухаверхая",
         "linkGit": "https://github.com/Anastasiya-s/",
         "description": "Человек хороший. Сделал все",
         "image": "https://avatars0.githubusercontent.com/u/37982141?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4ч",
+            "description": "Асноўная структура праекта"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "1ч",
+            "description": "Рэндэру спісу аўтараў"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4ч",
+            "description": "Опцыі пошуку і пошукавая радок"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "8ч",
+            "description": "Падключыць пошукавы радок да спісу аўтараў"
           }
         ]
       },
       {
-        "name": "Yegor Kuzin",
+        "name": "Ягор Кузін",
         "linkGit": "https://github.com/Yegor0",
         "description": "Человек хороший. Сделал все",
         "image": "https://avatars0.githubusercontent.com/u/43149672?s=460&v=4",
@@ -486,30 +406,26 @@
         ]
       },
       {
-        "name": "Alexandr Mazharov",
+        "name": "Аляксандр Мажараў",
         "linkGit": "https://github.com/AlexandrMazharov",
         "description": "Человек хороший. Сделал все",
         "image": "https://avatars2.githubusercontent.com/u/55503710?s=460&v=4",
         "workLog": [
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "6ч",
+            "description": "Стварыў базавы макет для старонкі каманды"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "2ч",
+            "description": "Стыль старонкі для каманды"
           },
           {
-            "time": "1",
-            "description": "xxxx"
+            "time": "8ч",
+            "description": "Стварыў базавую структуру для старонкі ворклога"
           },
           {
-            "time": "1",
-            "description": "xxxx"
-          },
-          {
-            "time": "1",
-            "description": "xxxx"
+            "time": "4ч",
+            "description": "Створаны базавы макет для старонкі ворклога"
           }
         ]
       }
