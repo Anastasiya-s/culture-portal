@@ -1,15 +1,34 @@
 import React from 'react';
 
-import { People } from './components/people';
+import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import 'react-tabs/style/react-tabs.css';
+import { withTranslation } from 'react-i18next';
 
-const WorkLog = () => (
-  <div className="container">
-  <People />
-   
-    
-   
+import { People } from './components/people';
+import { SelfEvaluation } from './components/selfEvaluation';
+import { Difficulties } from './components/difficulties';
+
+const WorkLog = ({ t }) => (
+  <div className="container" style={{ marginBottom: 100 }}>
+    <Tabs>
+      <TabList>
+        <Tab>{t('controls:worklog')}</Tab>
+        <Tab>{t('controls:difficulties')}</Tab>
+        <Tab>{t('controls:selfEvaluation')}</Tab>
+      </TabList>
+
+      <TabPanel>
+        <People />
+      </TabPanel>
+      <TabPanel>
+        <Difficulties/>
+    </TabPanel>
+      <TabPanel>
+        <SelfEvaluation />
+      </TabPanel>
+    </Tabs>
   </div>
 );
 
-export default WorkLog;
+export default withTranslation()(WorkLog);
 
