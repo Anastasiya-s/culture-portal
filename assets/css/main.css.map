@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,CAAC,CAAC;EACA,WAAW,EAAE,OAAO;CACrB;;AAEE,AAAD,WAAO,CAAC;EACN,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,MAAM;CACnB;;AACA,AAAD,SAAK,CAAC;EACJ,aAAa,EAAE,IAAI;CACpB;;AAEA,AAAD,UAAM,CAAC;EACL,aAAa,EAAE,IAAI;CACpB;;AAGH,AAAA,CAAC,AAAA,MAAM,CAAC;EACN,eAAe,EAAE,IAAI;CACtB",
+    "sources": [
+        "../../src/components/pages/styleguide/components/main/main.scss",
+        "../../src/design/colors.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

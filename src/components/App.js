@@ -1,6 +1,9 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
+import 'normalize.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import { HomePage } from './pages/home';
 import { WorkLogPage } from './pages/worklog';
 import { TeamPage } from './pages/teampage';
@@ -9,9 +12,6 @@ import { SearchPage } from './pages/search';
 import { StyleguidePage } from './pages/styleguide';
 import { Header } from '@core/header';
 import { Footer } from '@core/footer';
-
-import 'normalize.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends React.Component {
   render() {
