@@ -7,7 +7,6 @@ import { NavPoint } from './navPoint';
 import { withTranslation } from 'react-i18next';
 
 import './header.scss';
-import '@src/i18n';
 
 
 const Header = ({ t }) => (

@@ -4,7 +4,6 @@ import { withTranslation } from 'react-i18next';
 
 import { AuthorCard } from './components/author-card';
 import { Searchbar } from './components/searchbar';
-import '@src/i18n';
 
 class SearchPage extends React.Component {
   constructor(props) {

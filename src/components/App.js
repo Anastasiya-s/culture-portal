@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import "./i18n";
 
 import { HomePage } from './pages/home';
 import {WorkLogPage} from './pages/worklog';
