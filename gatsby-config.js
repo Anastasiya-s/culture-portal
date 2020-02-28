@@ -51,6 +51,7 @@ module.exports = {
         ],
         display: 'swap'
       }
-    }
+    },
+    `gatsby-plugin-react-head`
   ],
 }
