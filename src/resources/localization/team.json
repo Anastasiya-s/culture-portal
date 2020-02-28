@@ -3,7 +3,7 @@
     "team": [
       {
         "name": "Денис Полещук",
-        "description": "Человек хороший. Сделал все",
+        "description": "Страница автора, большая часть json-файлов с данными",
         "linkGit": "https://github.com/ronoarus",
         "image": "https://avatars3.githubusercontent.com/u/48986345?s=460&v=4",
         "workLog": [
@@ -13,14 +13,14 @@
           },
           {
             "time": "8ч",
-            "description": "Реализовал author page"
+            "description": "Реализовал страницу автора"
           }
         ]
       },
       {
         "name": "Владислав Матвеев",
         "linkGit": "https://github.com/invisiblespectator",
-        "description": "Человек хороший. Сделал все",
+        "description": "Локализация портала, страница ворклога",
         "image": "https://avatars0.githubusercontent.com/u/33596224?s=460&v=4",
         "workLog": [
           {
@@ -40,7 +40,7 @@
       {
         "name": "Анжела Мартинович",
         "linkGit": "https://github.com/AnzhelaMartsinovich",
-        "description": "Человек хороший. Сделал все",
+        "description": "Дизайн, красота, стиль",
         "image": "https://avatars0.githubusercontent.com/u/51420320?s=460&v=4",
         "workLog": [
           {
@@ -68,7 +68,7 @@
       {
         "name": "Анастасия Суховерхая",
         "linkGit": "https://github.com/Anastasiya-s/",
-        "description": "Человек хороший. Сделал все",
+        "description": "Руководство, структура проекта, страница поиска",
         "image": "https://avatars0.githubusercontent.com/u/37982141?s=460&v=4",
         "workLog": [
           {
@@ -92,7 +92,7 @@
       {
         "name": "Егор Кузин",
         "linkGit": "https://github.com/Yegor0",
-        "description": "Человек хороший. Сделал все",
+        "description": "Главная страница и её наполнение",
         "image": "https://avatars0.githubusercontent.com/u/43149672?s=460&v=4",
         "workLog": [
           {
@@ -112,7 +112,7 @@
       {
         "name": "Александр Мажаров",
         "linkGit": "https://github.com/AlexandrMazharov",
-        "description": "Человек хороший. Сделал все",
+        "description": "Страницы команды и ворклога",
         "image": "https://avatars2.githubusercontent.com/u/55503710?s=460&v=4",
         "workLog": [
           {
@@ -139,7 +139,7 @@
     "team": [
       {
         "name": "Denis Poleshchuk",
-        "description": "Человек хороший. Сделал все",
+        "description": "Author's page, most of the json files with data",
         "linkGit": "https://github.com/ronoarus",
         "image": "https://avatars3.githubusercontent.com/u/48986345?s=460&v=4",
         "workLog": [
@@ -156,7 +156,7 @@
       {
         "name": "Vladislav Matveev",
         "linkGit": "https://github.com/invisiblespectator",
-        "description": "Человек хороший. Сделал все",
+        "description": "Portal localization, worklog page",
         "image": "https://avatars0.githubusercontent.com/u/33596224?s=460&v=4",
         "workLog": [
           {
@@ -176,7 +176,7 @@
       {
         "name": "Anzhela Martsinovich",
         "linkGit": "https://github.com/AnzhelaMartsinovich",
-        "description": "Человек хороший. Сделал все",
+        "description": "Design, beauty, style",
         "image": "https://avatars0.githubusercontent.com/u/51420320?s=460&v=4",
         "workLog": [
           {
@@ -204,7 +204,7 @@
       {
         "name": "Anastasiya Sukhaverkhaya",
         "linkGit": "https://github.com/Anastasiya-s/",
-        "description": "Человек хороший. Сделал все",
+        "description": "ЧGuide, project structure, search page",
         "image": "https://avatars0.githubusercontent.com/u/37982141?s=460&v=4",
         "workLog": [
           {
@@ -228,7 +228,7 @@
       {
         "name": "Yegor Kuzin",
         "linkGit": "https://github.com/Yegor0",
-        "description": "Человек хороший. Сделал все",
+        "description": "Home page and its content",
         "image": "https://avatars0.githubusercontent.com/u/43149672?s=460&v=4",
         "workLog": [
           {
@@ -248,7 +248,7 @@
       {
         "name": "Alexandr Mazharov",
         "linkGit": "https://github.com/AlexandrMazharov",
-        "description": "Человек хороший. Сделал все",
+        "description": "Team and worklog pages",
         "image": "https://avatars2.githubusercontent.com/u/55503710?s=460&v=4",
         "workLog": [
           {
@@ -275,7 +275,7 @@
     "team": [
       {
         "name": "Дзяніс Паляшчук",
-        "description": "Человек хороший. Сделал все",
+        "description": "Старонка аўтара, большая частка JSON-файлаў з дадзенымі",
         "linkGit": "https://github.com/ronoarus",
         "image": "https://avatars3.githubusercontent.com/u/48986345?s=460&v=4",
         "workLog": [
@@ -292,7 +292,7 @@
       {
         "name": "Уладзіслаў Мацвееў",
         "linkGit": "https://github.com/invisiblespectator",
-        "description": "Человек хороший. Сделал все",
+        "description": "Лакалізацыя партала, старонка ворклога",
         "image": "https://avatars0.githubusercontent.com/u/33596224?s=460&v=4",
         "workLog": [
           {
@@ -312,7 +312,7 @@
       {
         "name": "Анжэла Марцинович",
         "linkGit": "https://github.com/AnzhelaMartsinovich",
-        "description": "Человек хороший. Сделал все",
+        "description": "Дызайн, прыгажосць, стыль",
         "image": "https://avatars0.githubusercontent.com/u/51420320?s=460&v=4",
         "workLog": [
           {
@@ -340,7 +340,7 @@
       {
         "name": "Анастасія Сухаверхая",
         "linkGit": "https://github.com/Anastasiya-s/",
-        "description": "Человек хороший. Сделал все",
+        "description": "Кіраўніцтва, структура праекта, старонка пошуку",
         "image": "https://avatars0.githubusercontent.com/u/37982141?s=460&v=4",
         "workLog": [
           {
@@ -364,7 +364,7 @@
       {
         "name": "Ягор Кузін",
         "linkGit": "https://github.com/Yegor0",
-        "description": "Человек хороший. Сделал все",
+        "description": "Галоўная старонка і яе напаўненне",
         "image": "https://avatars0.githubusercontent.com/u/43149672?s=460&v=4",
         "workLog": [
           {
@@ -384,7 +384,7 @@
       {
         "name": "Аляксандр Мажараў",
         "linkGit": "https://github.com/AlexandrMazharov",
-        "description": "Человек хороший. Сделал все",
+        "description": "Старонкі каманды і ворклога",
         "image": "https://avatars2.githubusercontent.com/u/55503710?s=460&v=4",
         "workLog": [
           {
