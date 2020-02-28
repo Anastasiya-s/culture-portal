@@ -12,6 +12,8 @@ import { StyleguidePage } from './pages/styleguide';
 import { Header } from '@core/header';
 import { Footer } from '@core/footer';
 
+import '../design/common.scss';
+
 class App extends React.Component {
   render() {
     return (

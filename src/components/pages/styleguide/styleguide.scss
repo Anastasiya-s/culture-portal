@@ -3,6 +3,11 @@
   border-radius: 5px;
 }
 @media (max-width: 995px) {
+  .main-top {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   .main-text {
     flex-direction: column;
   }
@@ -60,6 +65,11 @@
 }
 
 @media (max-width: 550px) {
+  .titles,
+  .main-paragraph {
+    padding-left: 0;
+    padding-right: 0;
+  }
   h1 {
     font-size: 28px;
   }

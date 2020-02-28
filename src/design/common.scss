@@ -1,0 +1,19 @@
+@media (max-width: 770px) {
+  .footer {
+    position: static;
+    &__text {
+      font-size: 16px;
+    }
+  }
+
+  .nav {
+    font-size: 18px;
+    &-link {
+      padding: 10px 5px;
+    }
+  }
+
+  .header-logo {
+    display: none;
+  }
+}

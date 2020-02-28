@@ -1,5 +1,5 @@
 import React from "react";
-import "../../teampage.css";
+import "../../teampage.scss";
 function GetPerson(props) {
   return (
     <div className="card-item">

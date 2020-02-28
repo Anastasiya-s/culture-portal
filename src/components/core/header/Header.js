@@ -12,8 +12,10 @@ import './header.scss';
 const Header = ({ t }) => (
 	<header className="header">
 		<div className="container-fluid">
-			<nav className="nav justify-content-between">
-				<Logo />
+			<nav className="nav justify-content-between align-items-center">
+				<Link to="/">
+					<Logo />
+				</Link>
 				<Link to="/">
 					<NavPoint text={t('controls:mainPage')} />
 				</Link>
