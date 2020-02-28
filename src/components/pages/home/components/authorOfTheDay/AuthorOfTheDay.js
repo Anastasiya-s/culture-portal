@@ -24,7 +24,7 @@ const AuthorOfTheDay = ({ t }) => {
     <div className="author-container">
       <img src={selfie} alt="author" className="author-image" />
       <div className="author-info">
-        <Title2 text="Автор дня" />
+        <Title2 text={t('controls:authorOfDay')} />
         <Title3 text={name} />
         <p>{yearOfLife}</p>
         <p>{biography[0].description}</p>
