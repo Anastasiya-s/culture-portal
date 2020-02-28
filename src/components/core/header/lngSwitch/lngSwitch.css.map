@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAC;EACf,MAAM,EAAE,MAAM;CACf",
+    "sources": [
+        "lngSwitch.scss"
+    ],
+    "names": [],
+    "file": "lngSwitch.css"
+}

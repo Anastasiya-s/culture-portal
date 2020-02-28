@@ -7,13 +7,16 @@ import controls_ru from "@resources/controls/ru/controls.json";
 import controls_be from "@resources/controls/be/controls.json";
 
 import content from "@resources/authors.json";
-//import team from "@resources/ream.json";
+import teamMembers from "@resources/team.json";
+
+import evaluationText_en from "@resources/evaluation/en.json"
+import evaluationText_ru from "@resources/evaluation/ru.json"
 
 i18n
   .use(initReactI18next)
   .init({
     returnObjects: 'true',
-    lng: localStorage.getItem("language")||"ru",
+    lng: localStorage.getItem("language") || "ru",
     fallback: "ru",
     debug: true,
 
@@ -23,15 +26,21 @@ i18n
     resources: {
       en: {
         controls: controls_en,
-        authors: content.en
+        authors: content.en,
+        team: teamMembers.en,
+        evaluation: evaluationText_en
       },
       ru: {
         controls: controls_ru,
-        authors: content.ru
+        authors: content.ru,
+        team: teamMembers.ru,
+        evaluation: evaluationText_ru
       },
       be: {
         controls: controls_be,
-        authors: content.be
+        authors: content.be,
+        team: teamMembers.be,
+        evaluation: evaluationText_ru
       },
     },
   });

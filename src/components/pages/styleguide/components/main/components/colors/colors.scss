@@ -1,9 +1,11 @@
 @import "./../../../../../../../design/colors.scss";
 
 .bg__block {
-  width: 50px;
-  height: 30px;
+  width: 80px;
+  height: 80px;
   border: 1px dashed $secondary-text;
+  border-radius: 5px;
+  margin-bottom: 10px;
 }
 
 .primary {
@@ -21,5 +23,5 @@
 }
 
 .colors {
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
