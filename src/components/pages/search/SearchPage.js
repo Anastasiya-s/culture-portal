@@ -11,8 +11,11 @@ class SearchPage extends React.Component {
     super(props);
     this.state = {
       authorsArray: [],
-      searchOption: 'spawnPoint'
+      searchOption: 'Name',
+      authorsList: null,
     }
+    this.onSearchOptionChange = this.onSearchOptionChange.bind(this);
+    this.onAuthorsSearchChange = this.onAuthorsSearchChange.bind(this);
   }
 
   static getDerivedStateFromProps(props, state) {
@@ -23,14 +26,28 @@ class SearchPage extends React.Component {
     } 
     return null;
   }
+
+  onSearchOptionChange(value) {
+    this.setState({ searchOption: value })
+  }
+
+  onAuthorsSearchChange(arr) {
+    this.setState({ authorsList: arr })
+  }
   
   render() {
-    console.log(this.state.searchOption)
+    const authors = this.state.authorsList || this.state.authorsArray;
     return (
       <div>
-        <Searchbar authorsList={this.state.authorsArray} searchOption={this.state.searchOption}/>
+        <Searchbar 
+          authorsList={this.state.authorsArray} 
+          searchOption={this.state.searchOption}
+          searchOptions={this.state.searchOptions}
+          onSearchOptionChange={this.onSearchOptionChange}
+          onAuthorsSearchChange={this.onAuthorsSearchChange}
+        />
         <ul>{
-        this.state.authorsArray.map(author => 
+        authors.map(author => 
           <li key={author.id} >
             <Link to={`/author/${author.id}`} >
               <AuthorCard 

@@ -3,15 +3,15 @@ import React from 'react';
 import { SearchOptionsSelect } from './components/search-options-select';
 import { AuthorsSelect } from './components/authors-select';
 
-const Searchbar = ({ searchOption, authorsList }) => (
-  <div>
+const Searchbar = ({ searchOption, authorsList, onSearchOptionChange, onAuthorsSearchChange }) => {
+  return (
     <div>
-      <div>{searchOption}</div>
-      <AuthorsSelect authorsList={authorsList} searchOption={searchOption}/>
-      <SearchOptionsSelect />
+      <div>
+        <AuthorsSelect authorsList={authorsList} searchOption={searchOption} onAuthorsSearchChange={onAuthorsSearchChange}/>
+        <SearchOptionsSelect onSearchOptionChange={onSearchOptionChange} searchOption={searchOption}/>
+      </div>
     </div>
-  </div>
-);
-
+  );
+}
 
 export default Searchbar;
