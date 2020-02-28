@@ -1,0 +1,15 @@
+backend:
+  name: test-repo
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: difficulties
+    label: Вlog
+    folder: src/resources/localization/difficulties
+    create: true
+    fields:
+      - { name: ru, label: Russian }
+      - { name: be, label: Belorussian }
+      - { name: en, label: English }

@@ -52,6 +52,7 @@ module.exports = {
         display: 'swap'
       }
     },
-    `gatsby-plugin-react-head`
+    `gatsby-plugin-react-head`,
+    `gatsby-plugin-netlify-cms`
   ],
 }
