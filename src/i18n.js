@@ -12,13 +12,17 @@ import teamMembers from "@resources/team.json";
 import evaluationText_en from "@resources/evaluation/en.json"
 import evaluationText_ru from "@resources/evaluation/ru.json"
 
+import description_text from "@resources/description.json"
+
 i18n
   .use(initReactI18next)
   .init({
-    returnObjects: 'true',
+    returnObjects: true,
     lng: localStorage.getItem("language") || "ru",
     fallback: "ru",
     debug: true,
+    appendNamespaceToMissingKey: true,
+    joinArrays: true,
 
     interpolation: {
       escapeValue: false,
@@ -28,19 +32,22 @@ i18n
         controls: controls_en,
         authors: content.en,
         team: teamMembers.en,
-        evaluation: evaluationText_en
+        evaluation: evaluationText_en,
+        description: description_text.en
       },
       ru: {
         controls: controls_ru,
         authors: content.ru,
         team: teamMembers.ru,
-        evaluation: evaluationText_ru
+        evaluation: evaluationText_ru,
+        description: description_text.ru
       },
       be: {
         controls: controls_be,
         authors: content.be,
         team: teamMembers.be,
-        evaluation: evaluationText_ru
+        evaluation: evaluationText_ru,
+        description: description_text.be
       },
     },
   });
