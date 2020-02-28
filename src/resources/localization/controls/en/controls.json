@@ -15,5 +15,6 @@
   "selfEvaluation":"Self-evaluation",
   "difficulties": "Difficulties",
   "time":"Time spent",
-  "feature":"Feature"
+  "feature":"Feature",
+  "authorOfDay": "Author of the day"
 }
