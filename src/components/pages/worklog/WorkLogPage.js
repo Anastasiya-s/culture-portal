@@ -7,9 +7,11 @@ import { withTranslation } from 'react-i18next';
 import { People } from './components/people';
 import { SelfEvaluation } from './components/selfEvaluation';
 import { Difficulties } from './components/difficulties';
+import { Parallax } from '@core/parallax';
 
 const WorkLog = ({ t }) => (
   <div className="container" style={{ marginBottom: 100 }}>
+    <Parallax />
     <Tabs>
       <TabList>
         <Tab>{t('controls:worklog')}</Tab>
@@ -21,8 +23,8 @@ const WorkLog = ({ t }) => (
         <People />
       </TabPanel>
       <TabPanel>
-        <Difficulties/>
-    </TabPanel>
+        <Difficulties />
+      </TabPanel>
       <TabPanel>
         <SelfEvaluation />
       </TabPanel>
