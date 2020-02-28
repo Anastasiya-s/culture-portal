@@ -20,7 +20,7 @@ i18n
     returnObjects: true,
     lng: localStorage.getItem("language") || "ru",
     fallback: "ru",
-    debug: true,
+    debug: false,
     appendNamespaceToMissingKey: true,
     joinArrays: true,
 
