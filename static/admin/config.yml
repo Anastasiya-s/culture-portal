@@ -1,15 +1,16 @@
 backend:
-  name: test-repo
+  name: github
+  repo: Anastasiya-s/culture-portal
 
 media_folder: static/assets
-public_folder: /assets
+public_folder: assets
 
 collections:
   - name: difficulties
-    label: Вlog
+    label: Difficulties
     folder: src/resources/localization/difficulties
     create: true
     fields:
-      - { name: ru, label: Russian }
-      - { name: be, label: Belorussian }
-      - { name: en, label: English }
+      - { name: ru, label: Russian, widget: string, required: true }
+      - { name: be, label: Belorussian, widget: string, required: true }
+      - { name: en, label: English, widget: string, required: true }
