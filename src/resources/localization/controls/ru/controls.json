@@ -15,5 +15,6 @@
   "selfEvaluation":"Самопроверка",
   "difficulties": "Трудности",
   "time":"Времени затрачено",
-  "feature":"Особенность"
+  "feature":"Особенность",
+  "authorOfDay": "Автор дня"
 }

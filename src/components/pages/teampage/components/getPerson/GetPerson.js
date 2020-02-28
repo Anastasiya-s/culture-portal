@@ -1,11 +1,7 @@
 import React from "react";
-//import {PrsnWorklog} from "../prsnWorkLog";
 import "../../teampage.css";
 function GetPerson(props) {
-  console.log("getPeople");
-
   return (
-    //    <div className="card-wrap">
     <div className="card-item">
       <div className="card-item-wrap">
         <div>
@@ -20,7 +16,6 @@ function GetPerson(props) {
         <div className="card-item-description"> {props.prsn.description}</div>
       </div>
     </div>
-    //  </div>
   );
 }
 
