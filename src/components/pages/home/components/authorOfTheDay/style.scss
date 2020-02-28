@@ -12,6 +12,11 @@
   max-height: 300px;
   object-fit: cover;
 
+  -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+
   @media screen and (max-width: 765px){
     max-width: 200px;
     max-height: 200px;
@@ -21,6 +26,11 @@
     max-width: 570px;
     max-height: 570px;
     width: 90vw;
+  }
+
+  &:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
   }
 }
 
