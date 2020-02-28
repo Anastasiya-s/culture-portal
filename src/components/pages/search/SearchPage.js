@@ -4,6 +4,7 @@ import { withTranslation } from 'react-i18next';
 
 import { AuthorCard } from './components/author-card';
 import { Searchbar } from './components/searchbar';
+import { Parallax } from '@core/parallax';
 
 class SearchPage extends React.Component {
   constructor(props) {
@@ -22,7 +23,7 @@ class SearchPage extends React.Component {
     const authorsArray = t('authors:authors');
     if (authorsArray !== state.authorsArray) {
       return { authorsArray: authorsArray }
-    } 
+    }
     return null;
   }
 
@@ -33,30 +34,31 @@ class SearchPage extends React.Component {
   onAuthorsSearchChange(arr) {
     this.setState({ authorsList: arr })
   }
-  
+
   render() {
     const authors = this.state.authorsList || this.state.authorsArray;
     return (
       <div>
-        <Searchbar 
-          authorsList={this.state.authorsArray} 
+        <Parallax />
+        <Searchbar
+          authorsList={this.state.authorsArray}
           searchOption={this.state.searchOption}
           searchOptions={this.state.searchOptions}
           onSearchOptionChange={this.onSearchOptionChange}
           onAuthorsSearchChange={this.onAuthorsSearchChange}
         />
         <ul>{
-        authors.map(author => 
-          <li key={author.id} >
-            <Link to={`/author/${author.id}`} >
-              <AuthorCard 
-                photo={author.selfie} 
-                city={author.spawnPoint} 
-                name={author.name}
-              />
-            </Link>
-          </li>)
-          }
+          authors.map(author =>
+            <li key={author.id} >
+              <Link to={`/author/${author.id}`} >
+                <AuthorCard
+                  photo={author.selfie}
+                  city={author.spawnPoint}
+                  name={author.name}
+                />
+              </Link>
+            </li>)
+        }
         </ul>
       </div>
     )

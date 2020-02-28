@@ -3,11 +3,12 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import "./i18n";
 
 import { HomePage } from './pages/home';
-import {WorkLogPage} from './pages/worklog';
-import {TeamPage} from './pages/teampage';
+import { WorkLogPage } from './pages/worklog';
+import { TeamPage } from './pages/teampage';
 import { AuthorPage } from './pages/author';
 import { SearchPage } from './pages/search';
 import { StyleguidePage } from './pages/styleguide';
+// import { Parallax } from './core/parallax';
 import { Header } from '@core/header';
 import { Footer } from '@core/footer';
 
@@ -18,11 +19,12 @@ class App extends React.Component {
         <Header />
         <Switch>
           <Route path="/" exact component={HomePage} />
-          <Route path="/worklog" component={WorkLogPage}/>
-          <Route path="/team" component={TeamPage}/> 
-          <Route path="/author/:id" exact component={AuthorPage} />          
+          <Route path="/worklog" component={WorkLogPage} />
+          <Route path="/team" component={TeamPage} />
+          <Route path="/author/:id" exact component={AuthorPage} />
           <Route path="/search" component={SearchPage} />
-          <Route path="/styleguide" exact component={StyleguidePage} />          
+          <Route path="/styleguide" exact component={StyleguidePage} />
+          {/* <Route path="/parallax" exact component={Parallax} /> */}
         </Switch>
         <Footer />
       </BrowserRouter>
