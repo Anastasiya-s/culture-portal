@@ -1,3 +1,7 @@
 .project-description {
-  margin-top: 20px;
+  margin-top: 30px;
+}
+
+.project-description__title {
+  padding-top: 20px;
 }

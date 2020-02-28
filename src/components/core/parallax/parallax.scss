@@ -15,11 +15,11 @@
   width: 110%;
   height: 100%;
   &-bg {
-    background: url("../../../img/bg.jpg") bottom no-repeat;
+    background: url("./bg.jpg") bottom no-repeat;
     background-size: cover;
   }
   &-1 {
-    background: url("../../../img/layer-1.png") bottom no-repeat;
+    background: url("./layer-1.png") bottom no-repeat;
     background-size: cover;
   }
 }

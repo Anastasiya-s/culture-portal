@@ -2,10 +2,23 @@ import React from 'react';
 
 import './button.scss';
 
-const Button = ({ text, className }) => (
-	<button className={className}>
-		{text}
-	</button>
-);
+const Button = ({ text, className }) => {
+	const open = (e) => {
+		const menuIcon = document.querySelector('.header-btn');
+		const points = document.querySelectorAll('.header-link, select');
+
+		if (e.target === menuIcon) {
+			points.forEach(point => {
+				point.classList.toggle('open');
+			})
+		}
+	}
+
+	return (
+		<button className={className} onClick={open}>
+			{text}
+		</button>
+	)
+};
 
 export default Button;

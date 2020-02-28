@@ -8,8 +8,8 @@ import './style.css';
 
 const ProjectDescription = ({ t }) => (
   <div className="project-description">
-    <Title1 text={t('controls:title')} />
-    {t('description:text').map((v,i)=>(<Paragraph
+    <Title1 className="project-description__title" text={t('controls:title')} />
+    {t('description:text').map((v, i) => (<Paragraph
       text={v} key={i}
     />))}
   </div>
