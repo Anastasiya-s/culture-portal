@@ -8,7 +8,6 @@ import { TeamPage } from './pages/teampage';
 import { AuthorPage } from './pages/author';
 import { SearchPage } from './pages/search';
 import { StyleguidePage } from './pages/styleguide';
-// import { Parallax } from './core/parallax';
 import { Header } from '@core/header';
 import { Footer } from '@core/footer';
 
@@ -26,7 +25,6 @@ class App extends React.Component {
           <Route path="/author/:id" exact component={AuthorPage} />
           <Route path="/search" component={SearchPage} />
           <Route path="/styleguide" exact component={StyleguidePage} />
-          {/* <Route path="/parallax" exact component={Parallax} /> */}
         </Switch>
         <Footer />
       </BrowserRouter>
