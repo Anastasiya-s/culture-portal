@@ -1,6 +1,6 @@
 import React from 'react';
 
-import img from './../../../../img/logo.png';
+import img from './logo.png';
 import logoMobile from '../../../../img/favicon.png';
 
 import './logo.scss';
