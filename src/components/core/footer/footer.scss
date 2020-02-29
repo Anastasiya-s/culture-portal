@@ -1,0 +1,12 @@
+@import "./../../../design/colors.scss";
+
+.footer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: $primary;
+  &__text {
+    margin-bottom: 0;
+    color: $primary-text;
+    font-size: 18px;
+  }
+}

@@ -1,0 +1,28 @@
+@import "./../../../../../../../design/colors.scss";
+
+.bg__block {
+  width: 80px;
+  height: 80px;
+  border: 1px dashed $secondary-text;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.primary {
+  background-color: $primary;
+  &-text {
+    background-color: $primary-text;
+  }
+}
+
+.secondary {
+  background-color: $secondary;
+  &-text {
+    background-color: $secondary-text;
+  }
+}
+
+.colors {
+  margin-bottom: 100px;
+  padding-bottom: 20px;
+}

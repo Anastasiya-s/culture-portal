@@ -1,0 +1,23 @@
+{
+  "mainPage": "Main page",
+  "search": "Search for photos",
+  "team": "Our team",
+  "styleguide": "Styleguide",
+  "worklog": "Worklog",
+  "gallery": "Gallery",
+  "biography":"Biography",
+  "birthplace":"Place of birth",
+  "worksOfAuthor":"The works of the author",
+  "year":"Year",
+  "work":"Work",
+  "showMore":"Show more",
+  "title": "Culture portal",
+  "selfEvaluation":"Self-evaluation",
+  "difficulties": "Difficulties",
+  "time":"Time spent",
+  "feature":"Feature",
+  "authorOfDay": "Author of the day",
+  "searchBy": "Search by: ",
+  "city": "City",
+  "name": "Name"
+}

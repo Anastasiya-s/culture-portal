@@ -1,0 +1,25 @@
+.scene {
+  z-index: -1;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  min-height: 100vh;
+}
+
+.layer {
+  position: absolute;
+  left: -10%;
+  top: 0;
+  width: 110%;
+  height: 100%;
+  &-bg {
+    background: url("./bg.jpg") bottom no-repeat;
+    background-size: cover;
+  }
+  &-1 {
+    background: url("./layer-1.png") bottom no-repeat;
+    background-size: cover;
+  }
+}

@@ -1,0 +1,16 @@
+table {
+  border: 1px;
+}
+tr > p::before {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  content: "";
+  background-image: "../../../resources/images/done.png";
+}
+
+.react-tabs {
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

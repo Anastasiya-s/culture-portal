@@ -1,0 +1,40 @@
+@import "./../../../design/colors.scss";
+
+.header {
+  background-color: $primary;
+  &-logo {
+    margin: auto 0;
+    height: 40px;
+    &__mobile {
+      display: none;
+    }
+  }
+  &-btn {
+    background-image: url("./menu.svg");
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 25px;
+    width: 25px;
+    display: none;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border: none;
+  }
+}
+
+.nav {
+  font-size: 20px;
+  align-items: center;
+  &-link {
+    padding: 1rem;
+    color: $primary-text;
+    &:hover {
+      color: $secondary-text;
+    }
+  }
+}
+
+.open {
+  display: block !important;
+}

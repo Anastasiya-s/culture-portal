@@ -1,0 +1,26 @@
+@import "./../../../../../design/colors.scss";
+
+* {
+  font-family: "Exo 2";
+}
+.main {
+  &-title {
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  &-top {
+    margin-bottom: 70px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  &-text {
+    margin-bottom: 70px;
+  }
+}
+
+a:hover {
+  text-decoration: none;
+}
