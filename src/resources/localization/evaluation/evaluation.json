@@ -28,12 +28,12 @@
       "description": "styleguide"
     },
     {
-      "isDone": false,
+      "isDone": true,
       "mark": 10,
       "description": "mobile"
     },
     {
-      "isDone": false,
+      "isDone": true,
       "mark": 10,
       "description": "tablet"
     },
@@ -90,7 +90,7 @@
       "description": "cms"
     },
     {
-      "isDone": false,
+      "isDone": true,
       "mark": 20,
       "description": "effects"
     },
