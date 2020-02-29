@@ -8,6 +8,8 @@ export const Card = styled.div`
   display: flex;
   flex-flow: row nowrap;
   background-color: #FFFFFFE6;
+  padding: 20px;
+  margin: 20px;
 `;
 
 export const Info = styled.div`

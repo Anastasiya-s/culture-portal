@@ -5,7 +5,7 @@ import { withTranslation } from 'react-i18next';
 import { AuthorCard } from './components/author-card';
 import { Searchbar } from './components/searchbar';
 import { Parallax } from '@core/parallax';
-import { AuthorsList } from './SearchPage.styles';
+import { AuthorsList, PageContainer } from './SearchPage.styles';
 
 class SearchPage extends React.Component {
   constructor(props) {
@@ -39,7 +39,7 @@ class SearchPage extends React.Component {
   render() {
     const authors = this.state.authorsList || this.state.authorsArray;
     return (
-      <div>
+      <PageContainer>
         <Parallax />
         <Searchbar
           authorsList={this.state.authorsArray}
@@ -61,7 +61,7 @@ class SearchPage extends React.Component {
             </li>)
         }
         </AuthorsList>
-      </div>
+      </PageContainer>
     )
   }
 }
