@@ -16,5 +16,8 @@
   "difficulties": "Цяжкасць",
   "time":"Часу затрачана",
   "feature":"Асаблівасць",
-  "authorOfDay": "Аўтар дня"
+  "authorOfDay": "Аўтар дня",
+  "searchBy": "Фільтр: ",
+  "city": "Горад",
+  "name": "Імя"
 }

@@ -3,12 +3,7 @@ import Select from 'react-select';
 
 import { labelStyles, selectStyles, Container } from './SearchOptions.styles';
 
-const searchOptions = [
-  { value: 'spawnPoint', label: 'City' },
-  { value: 'name', label: 'Name' },
-];
-
-const SearchOptionsSelect = ({ name, label, value, onSearchOptionChange }) => (
+const SearchOptionsSelect = ({ name, label, value, onSearchOptionChange,searchOptions }) => (
   <Container>
     <label htmlFor={name} style={labelStyles}> 
       {label} 

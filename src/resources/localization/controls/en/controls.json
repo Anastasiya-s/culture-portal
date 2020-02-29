@@ -16,5 +16,6 @@
   "difficulties": "Difficulties",
   "time":"Time spent",
   "feature":"Feature",
-  "authorOfDay": "Author of the day"
+  "authorOfDay": "Author of the day",
+  "searchBy": "Search by: "
 }

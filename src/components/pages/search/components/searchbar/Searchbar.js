@@ -4,7 +4,7 @@ import { SearchOptionsSelect } from './components/search-options-select';
 import { AuthorsSelect } from './components/authors-select';
 import { Container } from './Searchbar.styles';
 
-const Searchbar = ({ searchOption, authorsList, onSearchOptionChange, onAuthorsSearchChange }) => {
+const Searchbar = ({ searchOption, searchOptions, authorsList, onSearchOptionChange, onAuthorsSearchChange, label }) => {
   return (
     <Container>
         <AuthorsSelect 
@@ -16,8 +16,8 @@ const Searchbar = ({ searchOption, authorsList, onSearchOptionChange, onAuthorsS
           onSearchOptionChange={onSearchOptionChange}
           searchOption={searchOption}
           name="searchOption"
-          // после добавления в локализацию, передавать из searchPage
-          label="Search by: "
+          label={label}
+          searchOptions={searchOptions}
         />
     </Container>
   );

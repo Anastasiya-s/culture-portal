@@ -12,7 +12,7 @@ class SearchPage extends React.Component {
     this.state = {
       authorsArray: [],
       searchOption: 'Name',
-      authorsList: null,
+      authorsList: null
     }
     this.onSearchOptionChange = this.onSearchOptionChange.bind(this);
     this.onAuthorsSearchChange = this.onAuthorsSearchChange.bind(this);
@@ -43,9 +43,13 @@ class SearchPage extends React.Component {
         <Searchbar
           authorsList={this.state.authorsArray}
           searchOption={this.state.searchOption}
-          searchOptions={this.state.searchOptions}
+          searchOptions={[
+            { value: 'spawnPoint', label: this.props.t('controls:city') },
+            { value: 'name', label: this.props.t('controls:name') },
+          ]}
           onSearchOptionChange={this.onSearchOptionChange}
           onAuthorsSearchChange={this.onAuthorsSearchChange}
+          label={this.props.t('controls:searchBy')}
         />
         <ul>{
           authors.map(author =>
