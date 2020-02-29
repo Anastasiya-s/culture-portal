@@ -1,3 +1,10 @@
+RSS React course task 
+[Culture Portal](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codejam-culture-portal.md)
+
+deadline: 29.02.2020 23:59
+start: 18.02.2020
+completed 29.02.2020
+
 ### Min scope - **50**
 - [x] **10** Главная страница + страница со списком авторов + страница автора (только страницы с контентом без виджетов);
 - [x] **10** Страница с членами команды + страница с ворклогом;
