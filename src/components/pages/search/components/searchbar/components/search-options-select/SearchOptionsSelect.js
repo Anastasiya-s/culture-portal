@@ -3,7 +3,7 @@ import Select from 'react-select';
 
 import { labelStyles, selectStyles, Container } from './SearchOptions.styles';
 
-const SearchOptionsSelect = ({ name, label, value, onSearchOptionChange,searchOptions }) => (
+const SearchOptionsSelect = ({ name, label, value, onSearchOptionChange, searchOptions, searchOption }) => (
   <Container>
     <label htmlFor={name} style={labelStyles}> 
       {label} 
@@ -14,6 +14,7 @@ const SearchOptionsSelect = ({ name, label, value, onSearchOptionChange,searchOp
       backspaceRemovesValue={false}
       isSearchable={true}
       value={value}
+      // defaultInputValue={searchOption.label}
       onChange={(value) =>{onSearchOptionChange(value)}}
       options={searchOptions}
       styles={selectStyles}
