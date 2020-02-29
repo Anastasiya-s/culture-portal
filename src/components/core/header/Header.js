@@ -11,10 +11,28 @@ import './header.scss';
 
 
 const Header = ({ t }) => {
+	const open = (e) => {
+		const menuIcon = document.querySelector('.header-btn');
+		const points = document.querySelectorAll('.header-link, select');
+
+		if (e.target === menuIcon) {
+			e.preventDefault();
+			points.forEach(point => {
+				point.classList.toggle('open');
+			})
+		}
+		if (e.target !== menuIcon) {
+			console.log(e.target);
+			points.forEach(point => {
+				point.classList.remove('open');
+			})
+		}
+	}
+
 	return (
 		<header className="header">
 			<div className="container-fluid">
-				<nav className="nav justify-content-between">
+				<nav className="nav justify-content-between" onClick={open}>
 					<Link className="logo-link" to="/">
 						<Logo />
 					</Link>
