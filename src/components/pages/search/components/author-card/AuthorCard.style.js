@@ -10,6 +10,9 @@ export const Card = styled.div`
   background-color: #FFFFFFE6;
   padding: 20px;
   margin: 20px;
+  @media (max-width: 765px) {
+    flex-flow: column-reverse;
+  }
 `;
 
 export const Info = styled.div`
@@ -22,6 +25,9 @@ export const Photo = styled.img`
   width: 200px;
   height: 200px;
   object-fit: cover;
+  @media (max-width: 765px) {
+    width: auto;
+  }
 `;
 
 export const Name = styled(Title2)`

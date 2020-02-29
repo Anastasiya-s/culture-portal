@@ -41,7 +41,6 @@ export const selectStyles = {
 
 export const labelStyles = {
   fontSize: 16,
-  paddingTop: 8,
   marginRight: 5,
   width: 100,
   textAlign: "right"
@@ -49,5 +48,8 @@ export const labelStyles = {
 
 export const Container = styled.div`
   display: flex;
-  flex-flow: row no-wrap;
+  flex-flow: row nowrap;
+  @media (max-width: 550px) {
+    margin: 10px;
+  }
 `;

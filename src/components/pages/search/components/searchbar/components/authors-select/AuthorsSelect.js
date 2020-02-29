@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Input } from '@core/input';
+import { AuthorsSearchInput } from  './AuthorsSelect.styles';
 
 const AuthorsSelect = ({ authorsList, searchOption, onAuthorsSearchChange }) => {
   
@@ -16,7 +16,7 @@ const AuthorsSelect = ({ authorsList, searchOption, onAuthorsSearchChange }) => 
     }
 
     return (
-      <Input onChange={e => onInputChange(e)}/>
+      <AuthorsSearchInput onChange={e => onInputChange(e)}/>
     )
   }
 
