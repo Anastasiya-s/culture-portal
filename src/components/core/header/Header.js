@@ -13,7 +13,7 @@ import './header.scss';
 const Header = ({ t }) => {
 	const open = (e) => {
 		const menuIcon = document.querySelector('.header-btn');
-		const points = document.querySelectorAll('.header-link, select');
+		const points = document.querySelectorAll('.header-link');
 
 		if (e.target === menuIcon) {
 			e.preventDefault();
