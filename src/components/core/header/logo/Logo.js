@@ -1,9 +1,9 @@
 import React from 'react';
 
-import img from './logo.png';
+import img from '../../../../../src/resources/images/logo.png';
 import logoMobile from '../../../../img/favicon.png';
 
-import './logo.scss';
+import './logo.scss'; 
 
 const Logo = () => (
 	<>
