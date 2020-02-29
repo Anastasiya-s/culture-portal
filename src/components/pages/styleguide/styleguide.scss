@@ -2,6 +2,11 @@
   background-color: #fff;
   border-radius: 5px;
 }
+@media (max-width: 860px) {
+  .colors {
+    margin-bottom: 60px;
+  }
+}
 @media (max-width: 995px) {
   .main-top {
     padding-left: 0;
