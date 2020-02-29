@@ -17,5 +17,7 @@
   "time":"Time spent",
   "feature":"Feature",
   "authorOfDay": "Author of the day",
-  "searchBy": "Search by: "
+  "searchBy": "Search by: ",
+  "city": "City",
+  "name": "Name"
 }
