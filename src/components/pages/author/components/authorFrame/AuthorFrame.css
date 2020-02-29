@@ -1,8 +1,15 @@
-.authorFrame{
+.authorFrame {
   display: flex;
   flex-direction: column;
+  margin-top: 30px;
+  padding-top: 20px;
 }
-.imgAuthor{  
+
+.imgAuthor {
   height: 500px;
   object-fit: contain;
+}
+
+.leaflet-container {
+  margin-bottom: 80px !important;
 }
