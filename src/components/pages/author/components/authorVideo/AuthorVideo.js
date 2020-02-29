@@ -17,13 +17,15 @@ class AuthorVideo extends React.Component {
   }
   render () {
     return (
-      <div>
+      <div style = {{display: 'flex'}}>
         <ModalVideo 
           channel='youtube' 
           isOpen={this.state.isOpen} 
           videoId={this.props.src} 
           onClose={() => this.setState({isOpen: false})}/>
-        <button onClick={this.openModal}>Open video</button>
+        <button style = {{border: 'none', borderRadius: '45px', margin: '5px auto'}} onClick={this.openModal}>
+          <img src = "/src/resources/images/youtube.png"></img>
+          </button>
       </div>
     )
   }

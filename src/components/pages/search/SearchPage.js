@@ -5,6 +5,7 @@ import { withTranslation } from 'react-i18next';
 import { AuthorCard } from './components/author-card';
 import { Searchbar } from './components/searchbar';
 import { Parallax } from '@core/parallax';
+import { AuthorsList, PageContainer } from './SearchPage.styles';
 
 class SearchPage extends React.Component {
   constructor(props) {
@@ -38,7 +39,7 @@ class SearchPage extends React.Component {
   render() {
     const authors = this.state.authorsList || this.state.authorsArray;
     return (
-      <div>
+      <PageContainer>
         <Parallax />
         <Searchbar
           authorsList={this.state.authorsArray}
@@ -51,7 +52,7 @@ class SearchPage extends React.Component {
           onAuthorsSearchChange={this.onAuthorsSearchChange}
           label={this.props.t('controls:searchBy')}
         />
-        <ul>{
+        <AuthorsList>{
           authors.map(author =>
             <li key={author.id} >
               <Link to={`/author/${author.id}`} >
@@ -63,8 +64,8 @@ class SearchPage extends React.Component {
               </Link>
             </li>)
         }
-        </ul>
-      </div>
+        </AuthorsList>
+      </PageContainer>
     )
   }
 }
