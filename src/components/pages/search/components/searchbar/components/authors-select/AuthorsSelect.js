@@ -11,8 +11,8 @@ const AuthorsSelect = ({ authorsList, searchOption, onAuthorsSearchChange }) => 
       const substring = e.target.value.toLowerCase();
       return string.indexOf(substring) >= 0
       }
-    )
-      onAuthorsSearchChange(authorsArray)
+    );
+      onAuthorsSearchChange(authorsArray);
     }
 
     return (
