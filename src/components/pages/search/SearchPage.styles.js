@@ -6,3 +6,7 @@ export const AuthorsList = styled.ul`
   list-style: none;
 `;
 
+export const PageContainer = styled.div`
+  margin-bottom: 80px;
+`;
+
