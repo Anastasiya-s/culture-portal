@@ -16,5 +16,8 @@
   "difficulties": "Трудности",
   "time":"Времени затрачено",
   "feature":"Особенность",
-  "authorOfDay": "Автор дня"
+  "authorOfDay": "Автор дня",
+  "searchBy": "Фильтр: ",
+  "city": "Город",
+  "name": "Имя"
 }
