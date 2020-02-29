@@ -4,7 +4,9 @@ import { withTranslation } from 'react-i18next';
 
 function Dificulties({ t }) {
   return (
-<span>Тут нужно что-то изобрести</span>
+      <ol>
+        {t("difficulties:text").map((v,i)=>(<li key={i}>{v}</li>))}
+      </ol>
   );
 }
 

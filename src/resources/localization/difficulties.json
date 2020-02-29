@@ -1,0 +1,11 @@
+{
+  "ru":{
+    "text":["Временные трудности при коммуникации","Делегирование полномочий", "Конфликты при слиянии веток"]
+  },
+  "en":{
+    "text":["Temporary difficulties in communication","Delegation of authority", "Conflicts when merging branches"]
+  },
+  "be":{
+    "text":["Часовыя цяжкасці пры камунікацыі","Дэлегаванне паўнамоцтваў", "Канфлікты пры зліцці галінак"]
+  }
+}
