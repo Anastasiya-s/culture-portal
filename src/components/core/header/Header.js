@@ -22,7 +22,6 @@ const Header = ({ t }) => {
 			})
 		}
 		if (e.target !== menuIcon) {
-			console.log(e.target);
 			points.forEach(point => {
 				point.classList.remove('open');
 			})
