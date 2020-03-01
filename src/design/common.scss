@@ -37,12 +37,14 @@
     }
   }
 
-  .header-link,
-  select {
+  .header-link {
     display: none;
   }
   select {
+    position: absolute;
+    right: 50px;
     padding-bottom: 10px;
+    background-color: transparent;
   }
 
   .header {
