@@ -24,7 +24,7 @@ class AuthorVideo extends React.Component {
           videoId={this.props.src} 
           onClose={() => this.setState({isOpen: false})}/>
         <button style = {{border: 'none', borderRadius: '45px', margin: '5px auto'}} onClick={this.openModal}>
-          <img src = "/src/resources/images/youtube.png"></img>
+          <img src = "https://i.ibb.co/dJ5KYz7/youtube.png" alt = "youtube video"></img>
           </button>
       </div>
     )
